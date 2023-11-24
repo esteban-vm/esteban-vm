@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Esteban V.M.</h1>
+<h1 align="center">Hi 👋, I'm Esteban</h1>
 
 <h3 align="center">A frontend developer from Paraguay</h3>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esteban-vm" alt="esteban-vm" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, Vue.js, PHP**
+- 🌱 I’m currently learning **PHP, Laravel, Vue.js**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
@@ -122,6 +122,9 @@
       </a>
       <a href="https://vitest.dev/" target="_blank" rel="noreferrer" title="vitest">
         <img src="https://vitest.dev/logo-shadow.svg" alt="vitest" width="40" height="40" />
+      </a>
+      <a href="https://playwright.dev/" target="_blank" rel="noreferrer" title="playwright">
+        <img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="playwright" width="40" height="40" />
       </a>
       <a href="https://laravel.com/" target="_blank" rel="noreferrer" title="laravel">
         <img
