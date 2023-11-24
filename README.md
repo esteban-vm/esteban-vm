@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esteban V.M.</h1>
+
 <h3 align="center">A frontend developer from Paraguay</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esteban-vm&label=Profile%20views&color=0e75b6&style=flat" alt="esteban-vm" /> </p>
@@ -14,11 +15,29 @@
 - 📫 How to reach me **estebanvm90@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://codepen.io/esteban-vera" target="blank" title="codepen" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="esteban-vera" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/esteban-vera-mantero" target="blank" title="linkedin"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esteban-vera-mantero" height="30" width="40" /></a>
-<a href="https://www.freecodecamp.org/EstebanVM" target="blank" title="freecodecamp"><img align="center" src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.svg" alt="esteban-vera-mantero" height="30" width="40" /></a>
-<a href="https://codesandbox.com/estebanvm1990" target="blank" title="codesandbox"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="estebanvm1990" height="30" width="40" /></a>
+
+<a href="https://codepen.io/esteban-vera" target="_blank" title="codepen" >
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="esteban-vera" height="30" width="40" />
+</a>
+
+<a href="https://linkedin.com/in/esteban-vera-mantero" target="_blank" title="linkedin">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" alt="esteban-vera-mantero" height="30" width="40" />
+</a>
+
+<a href="https://www.freecodecamp.org/EstebanVM" target="_blank" title="freecodecamp">
+  <img align="center" src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.svg" alt="EstebanVM" height="30" width="40" />
+</a>
+
+<a href="https://codesandbox.com/estebanvm1990" target="_blank" title="codesandbox">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="estebanvm1990" height="30" width="40" />
+</a>
+
+<a href="https://replit.com/@esteban-90" target="_blank" title="replit">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/78/New_Replit_Logo.svg" alt="@esteban-90" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -159,4 +178,6 @@
         />
       </a>
     </p>
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&locale=en&layout=compact" alt="esteban-vm" /></p>
+    <p>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&locale=en&layout=compact" alt="esteban-vm" />
+    </p>
