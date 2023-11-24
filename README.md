@@ -132,7 +132,7 @@
         />
       </a>
       <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="nextjs">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
+        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40" />
       </a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="react">
         <img
@@ -143,7 +143,7 @@
         />
       </a>
       <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" title="reactnative">
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
+        <img src="https://i.pinimg.com/736x/f3/f9/d9/f3f9d9501ae3b221764346be36517e78.jpg" alt="reactnative" width="40" height="40" />
       </a>
       <a href="https://redux.js.org" target="_blank" rel="noreferrer" title="redux">
         <img
