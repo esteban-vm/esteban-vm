@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://codepen.io/esteban-vera" target="blank" title="codepen" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="esteban-vera" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/esteban-vera-mantero" target="blank" title="linkedin"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esteban-vera-mantero" height="30" width="40" /></a>
+<a href="https://www.freecodecamp.org/EstebanVM" target="blank" title="freecodecamp"><img align="center" src="https://d33wubrfki0l68.cloudfront.net/52edd2dfddbec5db22a65dba39951af8fa9bdff6/006f7/img/fcc_primary_large.svg" alt="esteban-vera-mantero" height="30" width="40" /></a>
 <a href="https://codesandbox.com/estebanvm1990" target="blank" title="codesandbox"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="estebanvm1990" height="30" width="40" /></a>
 </p>
 
@@ -54,6 +55,12 @@
       </a>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="git">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+      </a>
+      <a href="https://storybook.js.org/" target="_blank" rel="noreferrer" title="storybook">
+        <img src="https://raw.githubusercontent.com/storybookjs/brand/37c5e9bde5c56b69a8c4312de7d60fb3a9d7de9d/icon/icon-storybook-default.svg" alt="storybook" width="40" height="40" />
+      </a>
+       <a href="https://eslint.org/" target="_blank" rel="noreferrer" title="eslint">
+        <img src="https://eslint.org/assets/images/logo/eslint-logo-color.svg" alt="eslint" width="40" height="40" />
       </a>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="html5">
         <img
