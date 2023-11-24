@@ -60,7 +60,7 @@
         <img src="https://raw.githubusercontent.com/storybookjs/brand/37c5e9bde5c56b69a8c4312de7d60fb3a9d7de9d/icon/icon-storybook-default.svg" alt="storybook" width="40" height="40" />
       </a>
        <a href="https://eslint.org/" target="_blank" rel="noreferrer" title="eslint">
-        <img src="https://eslint.org/assets/images/logo/eslint-logo-color.svg" alt="eslint" width="40" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/324px-ESLint_logo.svg.png" alt="eslint" width="40" height="40" />
       </a>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="html5">
         <img
