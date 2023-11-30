@@ -60,7 +60,7 @@
 
 <h3 align="left">Languages I've learnt:</h3>
 
-<p align="left">
+<p align="center">
 
   <a href="https://www.w3.org/html/" title="HTML5">
     <img src="/icons/HTML5.png" alt="HTML5" />
@@ -94,7 +94,7 @@
 
 <h3 align="left">Tools/Frameworks I've been working with:</h3>
 
-<p align="left">
+<p align="center">
 
   <a href="https://getbootstrap.com/" title="BootstrapCSS">
     <img src="/icons/BootstrapCSS.png" alt="BootstrapCSS" />
