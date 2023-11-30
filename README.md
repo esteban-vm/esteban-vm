@@ -12,7 +12,9 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **React Native**
+<!-- - 🌱 I’m currently learning **React Native** -->
+
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React Native" />
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **React, JavaScript, TypeScript**
 
@@ -21,43 +23,43 @@
 <p align="center">
 
   <a href="https://linkedin.com/in/esteban-vera-mantero" title="LinkedIn">
-    <img align="center" src="/icons/LinkedIn.png" alt="LinkedIn" />
+    <img src="/icons/LinkedIn.png" alt="LinkedIn" />
   </a>
 
   <a href="https://wa.link/x95h58" title="WhatsApp">
-    <img align="center" src="/icons/WhatsApp.png" alt="WhatsApp" />
+    <img src="/icons/WhatsApp.png" alt="WhatsApp" />
   </a>
 
   <a href="mailto:estebanvm1990@gmail.com?Subject=Contact%me" title="Gmail">
-    <img align="center" src="/icons/Gmail.png" alt="Gmail" />
+    <img src="/icons/Gmail.png" alt="Gmail" />
   </a>
 
   <a href="mailto:estebanvm90@outlook.com?Subject=Contact%me" title="Outlook">
-    <img align="center" src="/icons/Outlook.png" alt="Outlook" />
+    <img src="/icons/Outlook.png" alt="Outlook" />
   </a>
 
   <a href="https://www.freecodecamp.org/EstebanVM" title="FreeCodeCamp">
-    <img align="center" src="/icons/FreeCodeCamp.png" alt="FreeCodeCamp" />
+    <img src="/icons/FreeCodeCamp.png" alt="FreeCodeCamp" />
   </a>
 
   <a href="https://www.udemy.com/user/esteban-vm/" title="Udemy">
-    <img align="center" src="/icons/Udemy.png" alt="Udemy" />
+    <img src="/icons/Udemy.png" alt="Udemy" />
   </a>
 
   <a href="https://codepen.io/esteban-vera" title="Code Pen">
-    <img align="center" src="/icons/CodePen.png" alt="Code Pen" />
+    <img src="/icons/CodePen.png" alt="Code Pen" />
   </a>
 
   <a href="https://codesandbox.com/estebanvm1990" title="Code Sandbox">
-    <img align="center" src="/icons/CodeSandbox.png" alt="Code Sandbox" />
+    <img src="/icons/CodeSandbox.png" alt="Code Sandbox" />
   </a>
 
   <a href="https://replit.com/@esteban-90" title="Replit">
-    <img align="center" src="/icons/Replit.png" alt="Replit" />
+    <img src="/icons/Replit.png" alt="Replit" />
   </a>
 
   <a href="https://stackoverflow.com/users/23014685/esteban-vm" title="Stack Overflow">
-    <img align="center" src="/icons/StackOverflow.png" alt="Stack Overflow" />
+    <img src="/icons/StackOverflow.png" alt="Stack Overflow" />
   </a>
 
 </p>
