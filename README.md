@@ -44,16 +44,20 @@
     <img align="center" src="/icons/Udemy.png" alt="Udemy" />
   </a>
 
-  <a href="https://codepen.io/esteban-vera" title="CodePen" >
-    <img align="center" src="/icons/CodePen.png" alt="CodePen" />
+  <a href="https://codepen.io/esteban-vera" title="Code Pen">
+    <img align="center" src="/icons/CodePen.png" alt="Code Pen" />
   </a>
 
-  <a href="https://codesandbox.com/estebanvm1990" title="CodeSandbox">
-    <img align="center" src="/icons/CodeSandbox.png" alt="CodeSandbox" />
+  <a href="https://codesandbox.com/estebanvm1990" title="Code Sandbox">
+    <img align="center" src="/icons/CodeSandbox.png" alt="Code Sandbox" />
   </a>
 
   <a href="https://replit.com/@esteban-90" title="Replit">
     <img align="center" src="/icons/Replit.png" alt="Replit" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/23014685/esteban-vm" title="Stack Overflow">
+    <img align="center" src="/icons/StackOverflow.png" alt="Stack Overflow" />
   </a>
 
 </p>
@@ -100,8 +104,8 @@
     <img src="/icons/BootstrapCSS.png" alt="BootstrapCSS" />
   </a>
 
-  <a href="https://www.w3schools.com/html/html5_canvas.asp" title="HTMLCanvas" >
-    <img src="/icons/HTMLCanvas.png" alt="HTMLCanvas" />
+  <a href="https://www.w3schools.com/html/html5_canvas.asp" title="HTML Canvas">
+    <img src="/icons/HTMLCanvas.png" alt="HTML Canvas" />
   </a>
 
   <a href="https://nextjs.org/" title="NextJS">
@@ -112,12 +116,12 @@
     <img src="/icons/ReactJS.png" alt="ReactJS" />
   </a>
 
-  <a href="https://reactrouter.com/" title="ReactRouter">
-    <img src="/icons/ReactRouter.png" alt="ReactRouter" />
+  <a href="https://reactrouter.com/" title="React Router">
+    <img src="/icons/ReactRouter.png" alt="React Router" />
   </a>
 
-  <a href="https://react-hook-form.com/" title="ReactHookForm">
-    <img src="/icons/ReactHookForm.png" alt="ReactHookForm" />
+  <a href="https://react-hook-form.com/" title="React Hook Form">
+    <img src="/icons/ReactHookForm.png" alt="React Hook Form" />
   </a>
 
   <a href="https://redux.js.org/" title="Redux">
@@ -156,16 +160,16 @@
     <img src="/icons/Vite.png" alt="Vite" />
   </a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/" title="ProgressiveWepApp">
-    <img src="/icons/ProgressiveWepApp.png" alt="ProgressiveWepApp" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/" title="Progressive Wep App">
+    <img src="/icons/ProgressiveWepApp.png" alt="Progressive Wep App" />
   </a>
 
   <a href="https://jestjs.io/" title="Jest">
     <img src="/icons/Jest.png" alt="Jest" />
   </a>
 
-  <a href="https://testing-library.com/" title="ReactTestingLibrary">
-    <img src="/icons/ReactTestingLibrary.png" alt="ReactTestingLibrary" />
+  <a href="https://testing-library.com/" title="React Testing Library">
+    <img src="/icons/ReactTestingLibrary.png" alt="React Testing Library" />
   </a>
 
   <a href="https://vitest.dev/" title="Vitest">
@@ -182,6 +186,14 @@
 
   <a href="https://emotion.sh/" title="Emotion">
     <img src="/icons/Emotion.png" alt="Emotion" />
+  </a>
+
+  <a href="https://www.npmjs.com/" title="NPM">
+    <img src="/icons/NPM.png" alt="NPM" />
+  </a>
+
+  <a href="https://pnpm.io/" title="PNPM">
+    <img src="/icons/PNPM.png" alt="PNPM" />
   </a>
 
 </p>
