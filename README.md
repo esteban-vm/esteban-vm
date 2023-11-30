@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&locale=en&layout=compact" alt="esteban-vm" />
+</p>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm" alt="esteban-vm" />
   </a>
@@ -205,8 +209,4 @@
     <img src="/icons/PNPM.png" alt="PNPM" />
   </a>
 
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&locale=en&layout=compact" alt="esteban-vm" />
 </p>
