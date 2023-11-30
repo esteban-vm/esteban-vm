@@ -140,6 +140,6 @@
     </a>
   </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&locale=en&layout=compact" alt="esteban-vm" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&locale=en&layout=compact" alt="esteban-vm" />
 </p>
