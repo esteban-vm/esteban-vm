@@ -33,7 +33,7 @@
 
 <p align="center">
 
-  <a href="https://linkedin.com/in/esteban-vera-mantero" title="LinkedIn">
+  <a href="https://linkedin.com/in/esteban-vera-mantero" title="LinkedIn" target="_blank">
     <img height="40" width="auto" src="/icons/LinkedIn.png" alt="LinkedIn" />
   </a>
 
