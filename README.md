@@ -18,11 +18,11 @@
   <img align="center" src="/icons/WhatsApp.png" alt="WhatsApp" />
 </a>
 
-<a href="https://wa.link/x95h58" title="Gmail">
+<a href="mailto:estebanvm1990@gmail.com?Subject=Contact%me" title="Gmail">
   <img align="center" src="/icons/Gmail.png" alt="Gmail" />
 </a>
 
-<a href="https://wa.link/x95h58" title="Outlook">
+<a href="mailto:estebanvm90@outlook.com?Subject=Contact%me" title="Outlook">
   <img align="center" src="/icons/Outlook.png" alt="Outlook" />
 </a>
 
@@ -30,7 +30,7 @@
   <img align="center" src="/icons/FreeCodeCamp.png" alt="FreeCodeCamp" />
 </a>
 
-<a href="https://www.freecodecamp.org/EstebanVM" title="Udemy">
+<a href="https://www.udemy.com/user/esteban-vm/" title="Udemy">
   <img align="center" src="/icons/Udemy.png" alt="Udemy" />
 </a>
 
