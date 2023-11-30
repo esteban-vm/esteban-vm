@@ -113,6 +113,10 @@
 
 <p align="center">
 
+  <a href="https://code.visualstudio.com/" title="VSCode">
+    <img height="40" width="auto" src="/icons/VSCode.png" alt="VSCode" />
+  </a>
+
   <a href="https://getbootstrap.com/" title="BootstrapCSS">
     <img height="40" width="auto" src="/icons/BootstrapCSS.png" alt="BootstrapCSS" />
   </a>
@@ -161,7 +165,7 @@
     <img height="40" width="auto" src="/icons/Eslint.png" alt="Eslint" />
   </a>
 
-  <a href="https://eslint.org/" title="Prettier">
+  <a href="https://prettier.io/" title="Prettier">
     <img height="40" width="auto" src="/icons/Prettier.png" alt="Prettier" />
   </a>
 
