@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esteban</h1>
 
-<h2 align="center">A frontend developer from Paraguay 🇵🇾</h2>
+<h2 align="center">A frontend/mobile developer from Paraguay 🇵🇾</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=esteban-vm&label=Profile%20views&color=0e75b6&style=flat" alt="esteban-vm" />
@@ -26,6 +26,7 @@
   - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" />
   - <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" />
   - <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" title="Flutter" />
+  - <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="TailwindCSS" />
 
 - 👯 I’m looking to collaborate on **open source projects**
 
@@ -35,10 +36,6 @@
 
   <a href="https://linkedin.com/in/esteban-vera-mantero" title="LinkedIn">
     <img height="40" width="auto" src="/icons/LinkedIn.png" alt="LinkedIn" />
-  </a>
-
-  <a href="https://wa.link/x95h58" title="WhatsApp">
-    <img height="40" width="auto" src="/icons/WhatsApp.png" alt="WhatsApp" />
   </a>
 
   <a href="mailto:estebanvm1990@gmail.com?Subject=Contact%me" title="Gmail">
