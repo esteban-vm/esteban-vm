@@ -54,10 +54,6 @@
     <img height="40" width="auto" src="/icons/FreeCodeCamp.png" alt="FreeCodeCamp" />
   </a>
 
-  <a href="https://www.udemy.com/user/esteban-vm/" title="Udemy">
-    <img height="40" width="auto" src="/icons/Udemy.png" alt="Udemy" />
-  </a>
-
   <a href="https://codepen.io/esteban-vera/" title="Code Pen">
     <img height="40" width="auto" src="/icons/CodePen.png" alt="Code Pen" />
   </a>
