@@ -34,7 +34,7 @@
 
 <p align="center">
 
-  <a href="https://linkedin.com/in/esteban-vera-mantero" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/vm-esteban/" title="LinkedIn">
     <img height="40" width="auto" src="/icons/LinkedIn.png" alt="LinkedIn" />
   </a>
 
@@ -46,7 +46,7 @@
     <img height="40" width="auto" src="/icons/Outlook.png" alt="Outlook" />
   </a>
 
-  <a href="https://www.freecodecamp.org/EstebanVM" title="FreeCodeCamp">
+  <a href="https://www.freecodecamp.org/EstebanVM/" title="FreeCodeCamp">
     <img height="40" width="auto" src="/icons/FreeCodeCamp.png" alt="FreeCodeCamp" />
   </a>
 
@@ -54,19 +54,19 @@
     <img height="40" width="auto" src="/icons/Udemy.png" alt="Udemy" />
   </a>
 
-  <a href="https://codepen.io/esteban-vera" title="Code Pen">
+  <a href="https://codepen.io/esteban-vera/" title="Code Pen">
     <img height="40" width="auto" src="/icons/CodePen.png" alt="Code Pen" />
   </a>
 
-  <a href="https://codesandbox.com/estebanvm1990" title="Code Sandbox">
+  <a href="https://codesandbox.com/estebanvm1990/" title="Code Sandbox">
     <img height="40" width="auto" src="/icons/CodeSandbox.png" alt="Code Sandbox" />
   </a>
 
-  <a href="https://replit.com/@esteban-90" title="Replit">
+  <a href="https://replit.com/@esteban-90/" title="Replit">
     <img height="40" width="auto" src="/icons/Replit.png" alt="Replit" />
   </a>
 
-  <a href="https://stackoverflow.com/users/23014685/esteban-vm" title="Stack Overflow">
+  <a href="https://stackoverflow.com/users/23014685/esteban-vm/" title="Stack Overflow">
     <img height="40" width="auto" src="/icons/StackOverflow.png" alt="Stack Overflow" />
   </a>
 
