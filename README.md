@@ -3,7 +3,7 @@
 <h2 align="center">A frontend developer from Paraguay 🇵🇾</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=esteban-vm&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="esteban-vm" />
+  <img src="https://komarev.com/ghpvc/?username=esteban-vm&label=Profile%20views&color=brightgreen&style=plastic" alt="esteban-vm" />
 </p>
 
 <p align="center">
@@ -18,15 +18,15 @@
 
 - 🌱 I’m currently learning:
 
-  - <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React Native" />
+  - <img src="https://img.shields.io/badge/React_Native-20232A?style=plastic&logo=react&logoColor=61DAFB" title="React Native" />
 
 - 💬 Ask me about:
 
-  - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" />
-  - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" />
-  - <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" />
-  - <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" title="Flutter" />
-  - <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="TailwindCSS" />
+  - <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" title="React" />
+  - <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" title="JavaScript" />
+  - <img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white" title="TypeScript" />
+  - <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white" title="Flutter" />
+  - <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" title="TailwindCSS" />
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
