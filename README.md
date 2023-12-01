@@ -3,7 +3,7 @@
 <h2 align="center">A frontend developer from Paraguay 🇵🇾</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=esteban-vm&label=Profile%20views&color=0e75b6&style=flat" alt="esteban-vm" />
+  <img src="https://komarev.com/ghpvc/?username=esteban-vm&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="esteban-vm" />
 </p>
 
 <p align="center">
@@ -28,14 +28,11 @@
   - <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" title="Flutter" />
   - <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="TailwindCSS" />
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate on **open-source projects**
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-
-<!-- |:------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------:|
-|[![LinkedIn](/icons/LinkedIn.png 'LinkedIn')](https://www.linkedin.com/in/vm-esteban/)|[![Gmail](/icons/LinkedIn.png 'Gmail')](mailto:estebanvm1990@gmail.com?Subject=Contact%me)| -->
 
   <a href="https://www.linkedin.com/in/vm-esteban/" title="LinkedIn">
     <img height="40" width="auto" src="/icons/LinkedIn.png" alt="LinkedIn" />
@@ -47,6 +44,10 @@
 
   <a href="mailto:estebanvm90@outlook.com?Subject=Contact%me" title="Outlook">
     <img height="40" width="auto" src="/icons/Outlook.png" alt="Outlook" />
+  </a>
+
+  <a href="https://wa.link/q3hsgu" title="WhatsApp">
+    <img height="40" width="auto" src="/icons/WhatsApp.png" alt="WhatsApp" />
   </a>
 
   <a href="https://www.freecodecamp.org/EstebanVM/" title="FreeCodeCamp">
