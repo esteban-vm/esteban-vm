@@ -2,21 +2,25 @@
 
 <h2 align="center">A frontend developer from Paraguay 🇵🇾</h2>
 
+<!-- Profile views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=esteban-vm&label=Profile%20views&color=brightgreen&style=plastic" alt="esteban-vm" />
+  <img src="https://komarev.com/ghpvc/?username=esteban-vm&label=Profile%20views&color=blueviolet&style=plastic" alt="esteban-vm" />
 </p>
 
+<!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="esteban-vm" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&locale=en&&layout=pie&theme=radical&hide_border=true" alt="esteban-vm" />
 </p>
 
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&locale=en&hide=contribs,issues&theme=synthwave" alt="esteban-vm" />
+  <img src="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&locale=en&hide=contribs,issues&theme=radical&hide_border=true&rank_icon=github" alt="esteban-vm" />
 </p>
 
+<!-- Trophies -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=darkhub" alt="esteban-vm" />
+    <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true" alt="esteban-vm" />
   </a>
 </p>
 
