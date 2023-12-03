@@ -93,11 +93,11 @@
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" title="JavaScript">
-    <img height="40" width="auto" src="/icons/JavaScript.png" alt="JavaScript" />
+    <img height="40" width="auto" src="/icons/JavaScript.svg" alt="JavaScript" />
   </a>
 
   <a href="https://www.typescriptlang.org/" title="TypeScript">
-    <img height="40" width="auto" src="/icons/TypeScript.png" alt="TypeScript" />
+    <img height="40" width="auto" src="/icons/TypeScript.svg" alt="TypeScript" />
   </a>
 
   <a href="https://nodejs.org/" title="NodeJS">
