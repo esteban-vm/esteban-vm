@@ -210,10 +210,6 @@
     <img height="40" width="auto" src="/icons/Emotion.png" alt="Emotion" />
   </a>
 
-  <a href="https://www.npmjs.com/" title="NPM">
-    <img height="40" width="auto" src="/icons/NPM.png" alt="NPM" />
-  </a>
-
   <a href="https://pnpm.io/" title="PNPM">
     <img height="40" width="auto" src="/icons/PNPM.png" alt="PNPM" />
   </a>
