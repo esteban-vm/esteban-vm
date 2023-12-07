@@ -122,10 +122,6 @@
     <img height="40" width="auto" src="/icons/VSCode.png" alt="VSCode" />
   </a>
 
-  <a href="https://getbootstrap.com/" title="BootstrapCSS">
-    <img height="40" width="auto" src="/icons/BootstrapCSS.png" alt="BootstrapCSS" />
-  </a>
-
   <a href="https://www.w3schools.com/html/html5_canvas.asp" title="HTML Canvas">
     <img height="40" width="auto" src="/icons/HTMLCanvas.png" alt="HTML Canvas" />
   </a>
