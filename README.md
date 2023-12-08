@@ -24,6 +24,12 @@
   </a>
 </p>
 
+<!-- <p align="center">
+
+</p> -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=space-invaders-game&theme=radical&hide_border=true)](https://github.com/esteban-vm/space-invaders-game)
+
 - 🌱 I’m currently learning:
 
   - <img src="https://img.shields.io/badge/React_Native-20232A?style=plastic&logo=react&logoColor=61DAFB" title="React Native" />
