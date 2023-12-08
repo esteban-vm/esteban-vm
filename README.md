@@ -24,11 +24,14 @@
   </a>
 </p>
 
-<!-- <p align="center">
-
-</p> -->
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=space-invaders-game&theme=radical&hide_border=true)](https://github.com/esteban-vm/space-invaders-game)
+<p align="center">
+  <a href="https://github.com/esteban-vm/space-invaders-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=space-invaders-game&theme=radical&hide_border=true" alt="space-invaders-game" />
+  </a>
+  <a href="https://github.com/esteban-vm/calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=calculator&theme=radical&hide_border=true" alt="calculator" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning:
 
