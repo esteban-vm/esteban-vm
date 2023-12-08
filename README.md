@@ -9,7 +9,7 @@
 
 <!-- Most Used Languages -->
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&locale=en&&layout=pie&theme=radical&hide_border=true" alt="esteban-vm" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&locale=en&&layout=pie&theme=radical&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c" alt="esteban-vm" />
 </p>
 
 <!-- GitHub Stats -->
