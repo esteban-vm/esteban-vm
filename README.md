@@ -4,13 +4,7 @@
 
 <!-- Profile views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=esteban-vm&label=Profile%20views&color=blueviolet&style=plastic" alt="esteban-vm" />
-</p>
-
-<!-- Speaking Languages -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Lang-EN-40B0C2&style=plastic" alt="English" />
-  <img src="https://img.shields.io/badge/Lang-ES-801172&style=plastic" alt="Spanish" />
+  <img src="https://komarev.com/ghpvc/?username=esteban-vm&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" title="Profile Views" />
 </p>
 
 <!-- Most Used Programming Languages -->
@@ -62,188 +56,163 @@
 
 - 🌱 I’m currently learning:
 
-  - <img src="https://img.shields.io/badge/React_Native-20232A?style=plastic&logo=react&logoColor=61DAFB" title="React Native" />
+  - <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React Native" alt="React Native" />
 
 - 💬 Ask me about:
 
-  - <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" title="React" />
-  - <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" title="JavaScript" />
-  - <img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white" title="TypeScript" />
-  - <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white" title="Flutter" />
-  - <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" title="TailwindCSS" />
+  - <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React" alt="React" />
+  - <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript" alt="JavaScript" />
+  - <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" title="TypeScript" alt="TypeScript" />
+  - <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" title="Flutter" alt="Flutter" />
+  - <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" title="TailwindCSS" alt="TailwindCSS" />
+
+- 🌐 In:
+
+  - <img src="https://img.shields.io/badge/Lang-EN-40B0C2?style=for-the-badge" alt="English" title="English" />
+  - <img src="https://img.shields.io/badge/Lang-ES-801172?style=for-the-badge" alt="Spanish" title="Spanish" />
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/vm-esteban/" title="LinkedIn">
-    <img height="40" width="auto" src="/icons/LinkedIn.png" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
-
   <a href="mailto:estebanvm1990@gmail.com?Subject=Contact%me" title="Gmail">
-    <img height="40" width="auto" src="/icons/Gmail.png" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
-
   <a href="mailto:estebanvm90@outlook.com?Subject=Contact%me" title="Outlook">
-    <img height="40" width="auto" src="/icons/Outlook.png" alt="Outlook" />
+    <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Outlook" />
   </a>
-
   <a href="https://wa.link/q3hsgu" title="WhatsApp">
-    <img height="40" width="auto" src="/icons/WhatsApp.png" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" />
   </a>
-
   <a href="https://www.freecodecamp.org/EstebanVM/" title="FreeCodeCamp">
-    <img height="40" width="auto" src="/icons/FreeCodeCamp.png" alt="FreeCodeCamp" />
+    <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="FreeCodeCamp" />
   </a>
-
   <a href="https://codepen.io/esteban-vera/" title="Code Pen">
-    <img height="40" width="auto" src="/icons/CodePen.png" alt="Code Pen" />
+    <img src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="Code Pen" />
   </a>
-
   <a href="https://codesandbox.com/estebanvm1990/" title="Code Sandbox">
-    <img height="40" width="auto" src="/icons/CodeSandbox.png" alt="Code Sandbox" />
+    <img src="https://img.shields.io/badge/CodeSandbox-151515.svg?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="Code Sandbox" />
   </a>
-
   <a href="https://replit.com/@esteban-90/" title="Replit">
-    <img height="40" width="auto" src="/icons/Replit.png" alt="Replit" />
+    <img src="https://img.shields.io/badge/Replit-F26207.svg?style=for-the-badge&logo=Replit&logoColor=white" alt="Replit" />
   </a>
-
   <a href="https://stackoverflow.com/users/23014685/esteban-vm/" title="Stack Overflow">
-    <img height="40" width="auto" src="/icons/StackOverflow.png" alt="Stack Overflow" />
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white" alt="Stack Overflow" />
   </a>
-
 </p>
 
 <h3 align="left">Languages I've learnt:</h3>
 
 <p align="center">
-
   <a href="https://www.w3.org/html/" title="HTML5">
-    <img height="40" width="auto" src="/icons/HTML5.png" alt="HTML5" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" />
   </a>
-
   <a href="https://www.w3schools.com/css/" title="CSS3">
-    <img height="40" width="auto" src="/icons/CSS3.png" alt="CSS3" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3" />
   </a>
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" title="JavaScript">
-    <img height="40" width="auto" src="/icons/JavaScript.svg" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   </a>
-
   <a href="https://www.typescriptlang.org/" title="TypeScript">
-    <img height="40" width="auto" src="/icons/TypeScript.svg" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript" />
   </a>
-
   <a href="https://nodejs.org/" title="NodeJS">
-    <img height="40" width="auto" src="/icons/NodeJS.png" alt="NodeJS" />
+    <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
   </a>
-
   <a href="https://sass-lang.com/" title="Sass">
-    <img height="40" width="auto" src="/icons/Sass.png" alt="Sass" />
+    <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" alt="Sass" />
   </a>
-
   <a href="https://dart.dev/" title="Dart">
-    <img height="40" width="auto" src="/icons/Dart.png" alt="Dart" />
+    <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" alt="Dart" />
   </a>
-
 </p>
 
 <h3 align="left">Tools/Frameworks I've been working with:</h3>
 
 <p align="center">
-
-  <a href="https://code.visualstudio.com/" title="VSCode">
-    <img height="40" width="auto" src="/icons/VSCode.png" alt="VSCode" />
+  <a href="https://code.visualstudio.com/" title="Visual Studio Code">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="Visual Studio Code" />
   </a>
-
   <a href="https://www.w3schools.com/html/html5_canvas.asp" title="HTML Canvas">
-    <img height="40" width="auto" src="/icons/HTMLCanvas.png" alt="HTML Canvas" />
+    <img src="https://img.shields.io/badge/Canvas-E72429.svg?style=for-the-badge&logo=Canvas&logoColor=white" alt="HTML Canvas" />
   </a>
-
   <a href="https://nextjs.org/" title="NextJS">
-    <img height="40" width="auto" src="/icons/NextJS.png" alt="NextJS" />
+    <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" />
   </a>
-
-  <a href="https://reactjs.org/" title="ReactJS">
-    <img height="40" width="auto" src="/icons/ReactJS.png" alt="ReactJS" />
+  <a href="https://reactjs.org/" title="React">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   </a>
-
   <a href="https://reactrouter.com/" title="React Router">
-    <img height="40" width="auto" src="/icons/ReactRouter.png" alt="React Router" />
+    <img src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white" alt="React Router" />
   </a>
-
   <a href="https://react-hook-form.com/" title="React Hook Form">
-    <img height="40" width="auto" src="/icons/ReactHookForm.png" alt="React Hook Form" />
+    <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=for-the-badge&logo=React-Hook-Form&logoColor=white" alt="React Hook Form" />
   </a>
-
   <a href="https://redux.js.org/" title="Redux">
-    <img height="40" width="auto" src="/icons/Redux.png" alt="Redux" />
+    <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux" />
   </a>
-
   <a href="https://firebase.google.com/" title="Firebase">
-    <img height="40" width="auto" src="/icons/Firebase.png" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase" />
   </a>
-
   <a href="https://flutter.dev/" title="Flutter">
-    <img height="40" width="auto"  src="/icons/Flutter.png" alt="Flutter" />
+    <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
   </a>
-
   <a href="https://git-scm.com/" title="Git">
-    <img height="40" width="auto" src="/icons/Git.png" alt="Git" />
+    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git" />
   </a>
-
   <a href="https://storybook.js.org/" title="Storybook">
-    <img height="40" width="auto" src="/icons/Storybook.png" alt="Storybook" />
+    <img src="https://img.shields.io/badge/Storybook-FF4785.svg?style=for-the-badge&logo=Storybook&logoColor=white" alt="Storybook" />
   </a>
-
+  <a href="https://www.chromatic.com/" title="Chromatic">
+    <img src="https://img.shields.io/badge/Chromatic-FC521F.svg?style=for-the-badge&logo=Chromatic&logoColor=white" alt="Chromatic" />
+  </a>
   <a href="https://eslint.org/" title="Eslint">
-    <img height="40" width="auto" src="/icons/Eslint.png" alt="Eslint" />
+    <img src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white" alt="Eslint" />
   </a>
-
   <a href="https://prettier.io/" title="Prettier">
-    <img height="40" width="auto" src="/icons/Prettier.png" alt="Prettier" />
+    <img src="https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&logo=Prettier&logoColor=black" alt="Prettier" />
   </a>
-
-  <a href="https://phaser.io/" title="PhaserJS">
-    <img height="40" width="auto" src="/icons/PhaserJS.png" alt="PhaserJS" />
+  <a href="https://phaser.io/" title="Web Game Development">
+    <img src="https://img.shields.io/badge/Game%20Developer-E60012.svg?style=for-the-badge&logo=Game-Developer&logoColor=white" alt="Web Game Development" />
   </a>
-
   <a href="https://v2.vitejs.dev/" title="Vite">
-    <img height="40" width="auto" src="/icons/Vite.png" alt="Vite" />
+    <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" alt="Vite" />
   </a>
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/" title="Progressive Wep App">
-    <img height="40" width="auto" src="/icons/ProgressiveWepApp.png" alt="Progressive Wep App" />
+    <img src="https://img.shields.io/badge/PWA-5A0FC8.svg?style=for-the-badge&logo=PWA&logoColor=white" alt="Progressive Wep App" />
   </a>
-
   <a href="https://jestjs.io/" title="Jest">
-    <img height="40" width="auto" src="/icons/Jest.png" alt="Jest" />
+    <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest" />
   </a>
-
   <a href="https://testing-library.com/" title="React Testing Library">
-    <img height="40" width="auto" src="/icons/ReactTestingLibrary.png" alt="React Testing Library" />
+    <img src="https://img.shields.io/badge/Testing%20Library-E33332.svg?style=for-the-badge&logo=Testing-Library&logoColor=white" alt="React Testing Library" />
   </a>
-
   <a href="https://vitest.dev/" title="Vitest">
-    <img height="40" width="auto" src="/icons/Vitest.png" alt="Vitest" />
+    <img src="https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=Vitest&logoColor=white" alt="Vitest" />
   </a>
-
   <a href="https://playwright.dev/" title="Playwright">
-    <img height="40" width="auto" src="/icons/Playwright.png" alt="Playwright" />
+    <img src="https://img.shields.io/badge/Playwright-2EAD33.svg?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright" />
   </a>
-
   <a href="https://tailwindcss.com/" title="TailwindCSS">
-    <img height="40" width="auto" src="/icons/TailwindCSS.png" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="TailwindCSS" />
   </a>
-
-  <a href="https://emotion.sh/" title="Emotion">
-    <img height="40" width="auto" src="/icons/Emotion.png" alt="Emotion" />
+  <a href="https://emotion.sh/docs/styled" title="Styled Components">
+    <img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
   </a>
-
   <a href="https://pnpm.io/" title="PNPM">
-    <img height="40" width="auto" src="/icons/PNPM.png" alt="PNPM" />
+    <img src="https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white" alt="PNPM" />
   </a>
-
+  <a href="https://vercel.com/" title="Vercel">
+    <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Vercel" />
+  </a>
+  <a href="https://github.com/" title="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/features/actions" title="GitHub Actions">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions" />
+  </a>
 </p>
