@@ -38,20 +38,12 @@
   <a href="https://github.com/esteban-vm/calculator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=calculator&theme=radical&hide_border=true" alt="calculator" />
   </a>
-</p>
-
-<!-- Pins -->
-<p align="center">
   <a href="https://github.com/esteban-vm/card-game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=card-game&theme=radical&hide_border=true" alt="space-invaders-game" />
   </a>
   <a href="https://github.com/esteban-vm/note-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=note-app&theme=radical&hide_border=true" alt="calculator" />
   </a>
-</p>
-
-<!-- Pins -->
-<p align="center">
   <a href="https://github.com/esteban-vm/bizwizz">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=bizwizz&theme=radical&hide_border=true" alt="space-invaders-game" />
   </a>
