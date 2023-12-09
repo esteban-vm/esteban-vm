@@ -7,9 +7,14 @@
   <img src="https://komarev.com/ghpvc/?username=esteban-vm&label=Profile%20views&color=blueviolet&style=plastic" alt="esteban-vm" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Lang-EN-40B0C2&style=plastic" alt="English" />
+  <img src="https://img.shields.io/badge/Lang-ES-801172&style=plastic" alt="Spanish" />
+</p>
+
 <!-- Most Used Languages -->
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&locale=en&&layout=pie&theme=radical&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c" alt="esteban-vm" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&locale=en&&layout=pie&theme=radical&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c" alt="esteban-vm" />
 </p>
 
 <!-- GitHub Stats -->
@@ -24,6 +29,7 @@
   </a>
 </p>
 
+<!-- Pins -->
 <p align="center">
   <a href="https://github.com/esteban-vm/space-invaders-game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=space-invaders-game&theme=radical&hide_border=true" alt="space-invaders-game" />
