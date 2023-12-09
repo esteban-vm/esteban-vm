@@ -50,6 +50,16 @@
   </a>
 </p>
 
+<!-- Pins -->
+<p align="center">
+  <a href="https://github.com/esteban-vm/bizwizz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=bizwizz&theme=radical&hide_border=true" alt="space-invaders-game" />
+  </a>
+  <a href="https://github.com/esteban-vm/digisolve">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=digisolve&theme=radical&hide_border=true" alt="calculator" />
+  </a>
+</p>
+
 - 🌱 I’m currently learning:
 
   - <img src="https://img.shields.io/badge/React_Native-20232A?style=plastic&logo=react&logoColor=61DAFB" title="React Native" />
