@@ -39,16 +39,22 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=calculator&theme=radical&hide_border=true" alt="calculator" />
   </a>
   <a href="https://github.com/esteban-vm/card-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=card-game&theme=radical&hide_border=true" alt="space-invaders-game" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=card-game&theme=radical&hide_border=true" alt="card-game" />
   </a>
   <a href="https://github.com/esteban-vm/note-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=note-app&theme=radical&hide_border=true" alt="calculator" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=note-app&theme=radical&hide_border=true" alt="note-app" />
   </a>
   <a href="https://github.com/esteban-vm/bizwizz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=bizwizz&theme=radical&hide_border=true" alt="space-invaders-game" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=bizwizz&theme=radical&hide_border=true" alt="bizwizz" />
   </a>
   <a href="https://github.com/esteban-vm/digisolve">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=digisolve&theme=radical&hide_border=true" alt="calculator" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=digisolve&theme=radical&hide_border=true" alt="digisolve" />
+  </a>
+  <a href="https://github.com/esteban-vm/awesome-javascript-effects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=awesome-javascript-effects&theme=radical&hide_border=true" alt="awesome-javascript-effects" />
+  </a>
+  <a href="https://github.com/esteban-vm/advanced-text-effects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=advanced-text-effects&theme=radical&hide_border=true" alt="advanced-text-effects" />
   </a>
 </p>
 
