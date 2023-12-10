@@ -81,13 +81,10 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="mailto:estebanvm90@outlook.com?Subject=Contact%me" title="Outlook">
-    <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Outlook" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Outlook" />
   </a>
   <a href="https://wa.link/q3hsgu" title="WhatsApp">
     <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://www.freecodecamp.org/EstebanVM/" title="FreeCodeCamp">
-    <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="FreeCodeCamp" />
   </a>
   <a href="https://codepen.io/esteban-vera/" title="Code Pen">
     <img src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="Code Pen" />
@@ -129,15 +126,9 @@
   </a>
 </p>
 
-<h3 align="left">Tools/Frameworks I've been working with:</h3>
+<h3 align="left">Tools/Frameworks I've worked with:</h3>
 
 <p align="center">
-  <a href="https://code.visualstudio.com/" title="Visual Studio Code">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="Visual Studio Code" />
-  </a>
-  <a href="https://www.w3schools.com/html/html5_canvas.asp" title="HTML Canvas">
-    <img src="https://img.shields.io/badge/Canvas-E72429.svg?style=for-the-badge&logo=Canvas&logoColor=white" alt="HTML Canvas" />
-  </a>
   <a href="https://nextjs.org/" title="NextJS">
     <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" />
   </a>
@@ -183,6 +174,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/" title="Progressive Wep App">
     <img src="https://img.shields.io/badge/PWA-5A0FC8.svg?style=for-the-badge&logo=PWA&logoColor=white" alt="Progressive Wep App" />
   </a>
+  <a href="https://www.w3schools.com/html/html5_canvas.asp" title="HTML Canvas">
+    <img src="https://img.shields.io/badge/Canvas-E72429.svg?style=for-the-badge&logo=Canvas&logoColor=white" alt="HTML Canvas" />
+  </a>
   <a href="https://jestjs.io/" title="Jest">
     <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest" />
   </a>
@@ -199,7 +193,7 @@
     <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="TailwindCSS" />
   </a>
   <a href="https://emotion.sh/docs/styled" title="Styled Components">
-    <img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
+    <img src="https://img.shields.io/badge/styled%20components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
   </a>
   <a href="https://pnpm.io/" title="PNPM">
     <img src="https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white" alt="PNPM" />
@@ -212,5 +206,34 @@
   </a>
   <a href="https://github.com/features/actions" title="GitHub Actions">
     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions" />
+  </a>
+  <a href="https://code.visualstudio.com/" title="Visual Studio Code">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="Visual Studio Code" />
+  </a>
+  <a href="https://www.microsoft.com/es-es/edge" title="Microsoft Edge">
+    <img src="https://img.shields.io/badge/Microsoft%20Edge-0078D7.svg?style=for-the-badge&logo=Microsoft-Edge&logoColor=white" alt="Microsoft Edge" />
+  </a>
+  <a href="https://www.google.com/intl/es-419/chrome/" title="Google Chrome">
+    <img src="https://img.shields.io/badge/Google%20Chrome-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Google Chrome" />
+  </a>
+</p>
+
+<h3 align="left">Educational resources:</h3>
+
+<p align="center">
+  <a href="https://www.freecodecamp.org/" title="FreeCodeCamp">
+    <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="FreeCodeCamp" />
+  </a>
+  <a href="https://www.udemy.com/" title="Udemy">
+    <img src="https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" />
+  </a>
+  <a href="https://www.sololearn.com/" title="SoloLearn">
+    <img src="https://img.shields.io/badge/Sololearn-149EF2.svg?style=for-the-badge&logo=Sololearn&logoColor=white" alt="SoloLearn" />
+  </a>
+  <a href="https://en.duolingo.com/" title="Duolingo">
+    <img src="https://img.shields.io/badge/Duolingo-58CC02.svg?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/" title="Mozilla Developer Network">
+    <img src="https://img.shields.io/badge/MDN%20Web%20Docs-000000.svg?style=for-the-badge&logo=MDN-Web-Docs&logoColor=white" alt="Mozilla Developer Network" />
   </a>
 </p>
