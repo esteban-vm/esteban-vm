@@ -233,6 +233,9 @@
   <a href="https://en.duolingo.com/" title="Duolingo">
     <img src="https://img.shields.io/badge/Duolingo-58CC02.svg?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo" />
   </a>
+  <a href="https://www.w3schools.com/" title="W3Schools">
+    <img src="https://img.shields.io/badge/W3Schools-04AA6D.svg?style=for-the-badge&logo=W3Schools&logoColor=white" alt="W3Schools" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/" title="Mozilla Developer Network">
     <img src="https://img.shields.io/badge/MDN%20Web%20Docs-000000.svg?style=for-the-badge&logo=MDN-Web-Docs&logoColor=white" alt="Mozilla Developer Network" />
   </a>
