@@ -56,6 +56,18 @@
   <a href="https://github.com/esteban-vm/advanced-text-effects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=advanced-text-effects&theme=radical&hide_border=true" alt="advanced-text-effects" />
   </a>
+  <a href="https://github.com/esteban-vm/connect-4-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=connect-4-game&theme=radical&hide_border=true" alt="connect-4-game" />
+  </a>
+  <a href="https://github.com/esteban-vm/animated-physics-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=animated-physics-game&theme=radical&hide_border=true" alt="animated-physics-game" />
+  </a>
+  <a href="https://github.com/esteban-vm/steampunk-scroller-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=steampunk-scroller-game&theme=radical&hide_border=true" alt="steampunk-scroller-game" />
+  </a>
+  <a href="https://github.com/esteban-vm/zombie-horde-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=zombie-horde-game&theme=radical&hide_border=true" alt="zombie-horde-game" />
+  </a>
 </p>
 
 - 🌱 I’m currently learning:
