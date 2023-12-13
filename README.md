@@ -87,8 +87,6 @@
   - <img src="https://img.shields.io/badge/Lang-EN-40B0C2?style=for-the-badge" alt="English" title="English" />
   - <img src="https://img.shields.io/badge/Lang-ES-801172?style=for-the-badge" alt="Spanish" title="Spanish" />
 
-- 👯 I’m looking to collaborate on **open-source projects**
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
