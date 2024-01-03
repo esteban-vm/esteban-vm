@@ -23,11 +23,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&locale=en&hide=contribs,issues&theme=radical&hide_border=true&rank_icon=github" alt="esteban-vm" />
 </p>
 
+<!-- WakaTime Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=esteban90&theme=radical&hide_border=true" alt="esteban-vm" />
+</p>
+
 <!-- Trophies -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true" alt="esteban-vm" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true" alt="esteban-vm" />
 </p>
 
 <!-- Pins -->
