@@ -20,7 +20,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&locale=en&hide=contribs,issues&theme=radical&hide_border=true&rank_icon=github" alt="esteban-vm" />
+  <img src="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&locale=en&hide=contribs,issues&theme=radical&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats" alt="esteban-vm" />
 </p>
 
 <!-- WakaTime Stats -->
