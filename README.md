@@ -85,10 +85,10 @@
   - <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" title="Flutter" alt="Flutter" />
   - <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" title="TailwindCSS" alt="TailwindCSS" />
 
-- 🌐 In:
+<!-- - 🌐 In:
 
   - <img src="https://img.shields.io/badge/Lang-EN-40B0C2?style=for-the-badge" alt="English" title="English" />
-  - <img src="https://img.shields.io/badge/Lang-ES-801172?style=for-the-badge" alt="Spanish" title="Spanish" />
+  - <img src="https://img.shields.io/badge/Lang-ES-801172?style=for-the-badge" alt="Spanish" title="Spanish" /> -->
 
 <h3 align="left">Connect with me:</h3>
 
@@ -184,8 +184,8 @@
   <a href="https://prettier.io/" title="Prettier">
     <img src="https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&logo=Prettier&logoColor=black" alt="Prettier" />
   </a>
-  <a href="https://phaser.io/" title="Web Game Development">
-    <img src="https://img.shields.io/badge/Game%20Developer-E60012.svg?style=for-the-badge&logo=Game-Developer&logoColor=white" alt="Web Game Development" />
+  <a href="https://phaser.io/" title="Phaser">
+    <img src="https://img.shields.io/badge/Phaser-E60012.svg?style=for-the-badge&logo=Game-Developer&logoColor=white" alt="Phaser" />
   </a>
   <a href="https://v2.vitejs.dev/" title="Vite">
     <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" alt="Vite" />
@@ -237,7 +237,7 @@
   </a>
 </p>
 
-<h3 align="left">Educational resources:</h3>
+<h3 align="left">Learning resources:</h3>
 
 <p align="center">
   <a href="https://www.freecodecamp.org/" title="FreeCodeCamp">
