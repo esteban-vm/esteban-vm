@@ -71,6 +71,9 @@
   <a href="https://github.com/esteban-vm/zombie-horde-game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=zombie-horde-game&theme=radical&hide_border=true" alt="zombie-horde-game" />
   </a>
+  <a href="https://github.com/esteban-vm/survival-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=survival-game&theme=radical&hide_border=true" alt="survival-game" />
+  </a>
 </p>
 
 - 🌱 I’m currently learning:
