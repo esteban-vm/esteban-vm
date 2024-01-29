@@ -108,6 +108,9 @@
   <a href="https://wa.link/q3hsgu" title="WhatsApp">
     <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" />
   </a>
+  <a href="https://t.me/VM_Esteban" title="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" />
+  </a>
   <a href="https://codepen.io/esteban-vera/" title="Code Pen">
     <img src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="Code Pen" />
   </a>
@@ -175,6 +178,9 @@
   <a href="https://git-scm.com/" title="Git">
     <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git" />
   </a>
+  <a href="https://www.docker.com/" title="Docker">
+    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker" />
+  </a>
   <a href="https://storybook.js.org/" title="Storybook">
     <img src="https://img.shields.io/badge/Storybook-FF4785.svg?style=for-the-badge&logo=Storybook&logoColor=white" alt="Storybook" />
   </a>
@@ -232,12 +238,12 @@
   <a href="https://code.visualstudio.com/" title="Visual Studio Code">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="Visual Studio Code" />
   </a>
-  <a href="https://www.microsoft.com/es-es/edge" title="Microsoft Edge">
+  <!-- <a href="https://www.microsoft.com/es-es/edge" title="Microsoft Edge">
     <img src="https://img.shields.io/badge/Microsoft%20Edge-0078D7.svg?style=for-the-badge&logo=Microsoft-Edge&logoColor=white" alt="Microsoft Edge" />
   </a>
   <a href="https://www.google.com/intl/es-419/chrome/" title="Google Chrome">
     <img src="https://img.shields.io/badge/Google%20Chrome-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Google Chrome" />
-  </a>
+  </a> -->
 </p>
 
 <h3 align="left">Learning resources:</h3>
