@@ -13,24 +13,24 @@
   <img src="https://komarev.com/ghpvc/?username=esteban-vm&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" title="Profile Views" />
 </p>
 
-<!-- Most Used Programming Languages -->
+<!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&locale=en&&layout=pie&theme=radical&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c" alt="esteban-vm" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&&layout=pie&theme=radical&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c,html&custom_title=🚀%20My%20Most%20Used%20Languages" alt="Esteban V.M.'s Most Used Languages" />
 </p>
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&locale=en&hide=contribs,issues&theme=radical&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats" alt="esteban-vm" />
+  <img src="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&hide=contribs,issues&theme=radical&hide_border=true&rank_icon=github&custom_title=🚀%20My%20GitHub%20Stats" alt="Esteban V.M.'s GitHub Stats" />
 </p>
 
 <!-- WakaTime Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=esteban90&theme=radical&hide_border=true" alt="esteban-vm" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=esteban90&theme=radical&hide_border=true&custom_title=🚀%20My%20WakaTime%20Stats%20(last%207%20days)" alt="Esteban V.M.'s WakaTime Stats" />
 </p>
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true" alt="esteban-vm" />
+  <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true" alt="Esteban V.M.'s Trophies" />
 </p>
 
 <!-- Pins -->
