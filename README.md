@@ -255,6 +255,9 @@
   <a href="https://www.udemy.com/" title="Udemy">
     <img src="https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" />
   </a>
+  <a href="https://www.linkedin.com/learning" title="LinkedIn Learning">
+    <img src="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Learning" />
+  </a>
   <a href="https://www.sololearn.com/" title="SoloLearn">
     <img src="https://img.shields.io/badge/Sololearn-149EF2.svg?style=for-the-badge&logo=Sololearn&logoColor=white" alt="SoloLearn" />
   </a>
