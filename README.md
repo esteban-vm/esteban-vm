@@ -76,9 +76,9 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning:
+<!-- - 🌱 I’m currently learning:
 
-  - <img src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React Native" alt="React Native" />
+  - <img src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React Native" alt="React Native" /> -->
 
 - 💬 Ask me about:
 
