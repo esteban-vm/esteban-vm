@@ -4,7 +4,7 @@
 <!-- Subheading -->
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF428E&background=141321&center=true&vCenter=true&random=false&width=450&lines=A+Front-End+Developer;from+Paraguay+%F0%9F%87%B5%F0%9F%87%BE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Recursive&weight=500&size=30&pause=1000&color=FF428E&background=141321&center=true&vCenter=true&random=false&width=450&lines=A+Front-End+Developer;from+Paraguay+%F0%9F%87%B5%F0%9F%87%BE" alt="Typing SVG" />
   </a>
 </h2>
 
@@ -85,18 +85,38 @@
 
   - <img src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React Native" alt="React Native" /> -->
 
-- 💬 Ask me about:
+<!-- - 💬 Ask me about:
 
   - <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React" alt="React" />
   - <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript" />
   - <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" title="TypeScript" alt="TypeScript" />
   - <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" title="Flutter" alt="Flutter" />
-  - <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" title="TailwindCSS" alt="TailwindCSS" />
+  - <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" title="TailwindCSS" alt="TailwindCSS" /> -->
 
 <!-- - 🌐 In:
 
   - <img src="https://img.shields.io/badge/Lang-EN-40B0C2?style=for-the-badge" alt="English" title="English" />
   - <img src="https://img.shields.io/badge/Lang-ES-801172?style=for-the-badge" alt="Spanish" title="Spanish" /> -->
+
+<h3 align="left">Ask me about:</h3>
+
+<p align="center">
+  <a href="https://reactjs.org/" title="React">
+    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" title="JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a href="https://flutter.dev/" title="Flutter">
+    <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  </a>
+  <a href="https://tailwindcss.com/" title="TailwindCSS">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="TailwindCSS" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -171,8 +191,14 @@
   <a href="https://react-hook-form.com/" title="React Hook Form">
     <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=for-the-badge&logo=React-Hook-Form&logoColor=white" alt="React Hook Form" />
   </a>
+  <a href="https://tanstack.com/query/v3" title="React Query">
+    <img src="https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white" alt="React Query" />
+  </a>
   <a href="https://redux.js.org/" title="Redux">
     <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux" />
+  </a>
+  <a href="https://threejs.org/" title="Three.JS">
+    <img src="https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.JS" />
   </a>
   <a href="https://firebase.google.com/" title="Firebase">
     <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase" />
