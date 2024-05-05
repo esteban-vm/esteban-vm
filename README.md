@@ -28,14 +28,14 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=esteban90&theme=radical&hide_border=true&custom_title=🚀%20My%20WakaTime%20Stats%20(last%207%20days)" alt="Esteban V.M.'s WakaTime Stats" />
 </p>
 
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Esteban V.M.'s Trophies" />
+</p>
+
 <!-- Random Quotes -->
 <p align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&layout=churchill&font=Gabrielle&animation=grow_out_in&quoteCategory=programming" alt="Esteban V.M.'s WakaTime Stats" />
-</p>
-
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true" alt="Esteban V.M.'s Trophies" />
 </p>
 
 <!-- Contributions Snake -->
