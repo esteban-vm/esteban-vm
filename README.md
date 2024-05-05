@@ -38,6 +38,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true" alt="Esteban V.M.'s Trophies" />
 </p>
 
+<!-- Contributions Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <!-- Pins -->
 <p align="center">
   <a href="https://github.com/esteban-vm/space-invaders-game">
