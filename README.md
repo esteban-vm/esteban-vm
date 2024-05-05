@@ -18,6 +18,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&&layout=pie&theme=radical&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c,html&custom_title=🚀%20My%20Most%20Used%20Languages" alt="Esteban V.M.'s Most Used Languages" />
 </p>
 
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,PullRequest,Followers,Experience" alt="Esteban V.M.'s Trophies" />
+</p>
+
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&hide=contribs,issues&theme=radical&hide_border=true&rank_icon=github&custom_title=🚀%20My%20GitHub%20Stats" alt="Esteban V.M.'s GitHub Stats" />
@@ -26,11 +31,6 @@
 <!-- WakaTime Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=esteban90&theme=radical&hide_border=true&custom_title=🚀%20My%20WakaTime%20Stats%20(last%207%20days)" alt="Esteban V.M.'s WakaTime Stats" />
-</p>
-
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Esteban V.M.'s Trophies" />
 </p>
 
 <!-- Random Quotes -->
