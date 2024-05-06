@@ -1,25 +1,3 @@
-<style>
-  /* :root:not(.dark) .dark-only {
-    display: none;
-  }
-
-  :root:is(.dark) .light-only {
-    display: none;
-  } */
-
-  /* @media (prefers-color-scheme: dark) {
-    .light-only {
-      display: none;
-    }
-  }
-
-  @media (prefers-color-scheme: light) {
-    .dark-only {
-      display: none;
-    }
-  } */
-</style>
-
 <!-- Heading -->
 <h1 align="center">Hi 👋, I'm Esteban</h1>
 
