@@ -16,6 +16,9 @@
 <!-- Most Used Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&&layout=pie&theme=radical&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c,html&custom_title=🚀%20My%20Most%20Used%20Languages#gh-dark-mode-only" alt="Esteban V.M.'s Most Used Languages" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&&layout=pie&theme=graywhite&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c,html&custom_title=🚀%20My%20Most%20Used%20Languages#gh-light-mode-only" alt="Esteban V.M.'s Most Used Languages" />
 </p>
 
