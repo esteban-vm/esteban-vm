@@ -225,9 +225,9 @@
   <a href="https://nodejs.org/" title="NodeJS">
     <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
   </a>
-  <a href="https://sass-lang.com/" title="Sass">
+  <!-- <a href="https://sass-lang.com/" title="Sass">
     <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" alt="Sass" />
-  </a>
+  </a> -->
   <a href="https://dart.dev/" title="Dart">
     <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" alt="Dart" />
   </a>
@@ -266,9 +266,9 @@
   <a href="https://git-scm.com/" title="Git">
     <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git" />
   </a>
-  <a href="https://www.docker.com/" title="Docker">
+  <!-- <a href="https://www.docker.com/" title="Docker">
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker" />
-  </a>
+  </a> -->
   <a href="https://storybook.js.org/" title="Storybook">
     <img src="https://img.shields.io/badge/Storybook-FF4785.svg?style=for-the-badge&logo=Storybook&logoColor=white" alt="Storybook" />
   </a>
@@ -320,9 +320,9 @@
   <a href="https://github.com/" title="GitHub">
     <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/features/actions" title="GitHub Actions">
+  <!-- <a href="https://github.com/features/actions" title="GitHub Actions">
     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions" />
-  </a>
+  </a> -->
   <a href="https://code.visualstudio.com/" title="Visual Studio Code">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="Visual Studio Code" />
   </a>
