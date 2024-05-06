@@ -84,7 +84,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=card-game&theme=radical&hide_border=true" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=card-game&theme=graywhite" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=card-game&theme=radical&hide_border=true" alt="Card Game" alt="Card Game" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=card-game&theme=radical&hide_border=true" alt="Card Game" title="Card Game" />
     </picture>
   </a>
   <a href="https://github.com/esteban-vm/note-app">
