@@ -16,34 +16,31 @@
 <!-- Most Used Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&&layout=pie&theme=radical&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c,html&custom_title=🚀%20My%20Most%20Used%20Languages#gh-dark-mode-only" alt="Esteban V.M.'s Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&&layout=pie&theme=graywhite&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c,html&custom_title=🚀%20My%20Most%20Used%20Languages#gh-light-mode-only" alt="Esteban V.M.'s Most Used Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&&layout=pie&theme=graywhite&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c,html&custom_title=🚀%20My%20Most%20Used%20Languages#gh-light-mode-only" alt="Esteban V.M.'s Most Used Languages" /> -->
 </p>
 
 <!-- Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,PullRequest,Followers,Experience#gh-dark-mode-only" alt="Esteban V.M.'s Trophies" />
-  <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=oldie&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,PullRequest,Followers,Experience#gh-light-mode-only" alt="Esteban V.M.'s Trophies" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=oldie&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,PullRequest,Followers,Experience#gh-light-mode-only" alt="Esteban V.M.'s Trophies" /> -->
 </p>
 
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&hide=contribs,issues&theme=radical&hide_border=true&rank_icon=github&custom_title=🚀%20My%20GitHub%20Stats#gh-dark-mode-only" alt="Esteban V.M.'s GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&hide=contribs,issues&theme=graywhite&hide_border=true&rank_icon=github&custom_title=🚀%20My%20GitHub%20Stats#gh-light-mode-only" alt="Esteban V.M.'s GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&hide=contribs,issues&theme=graywhite&hide_border=true&rank_icon=github&custom_title=🚀%20My%20GitHub%20Stats#gh-light-mode-only" alt="Esteban V.M.'s GitHub Stats" /> -->
 </p>
 
 <!-- WakaTime Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=esteban90&theme=radical&hide_border=true&custom_title=🚀%20My%20WakaTime%20Stats%20(last%207%20days)#gh-dark-mode-only" alt="Esteban V.M.'s WakaTime Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=esteban90&theme=graywhite&hide_border=true&custom_title=🚀%20My%20WakaTime%20Stats%20(last%207%20days)#gh-light-mode-only" alt="Esteban V.M.'s WakaTime Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=esteban90&theme=graywhite&hide_border=true&custom_title=🚀%20My%20WakaTime%20Stats%20(last%207%20days)#gh-light-mode-only" alt="Esteban V.M.'s WakaTime Stats" /> -->
 </p>
 
 <!-- Random Quotes -->
 <p align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&layout=churchill&font=Gabrielle&animation=grow_out_in&quoteCategory=programming#gh-dark-mode-only" alt="Esteban V.M.'s WakaTime Stats" />
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=graywhite&layout=churchill&font=Gabrielle&animation=grow_out_in&quoteCategory=programming#gh-light-mode-only" alt="Esteban V.M.'s WakaTime Stats" />
+  <!-- <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=graywhite&layout=churchill&font=Gabrielle&animation=grow_out_in&quoteCategory=programming#gh-light-mode-only" alt="Esteban V.M.'s WakaTime Stats" /> -->
 </p>
 
 <!-- Contributions Snake -->
@@ -96,7 +93,7 @@
   <a href="https://github.com/esteban-vm/survival-game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=survival-game&theme=radical&hide_border=true#gh-dark-mode-only" alt="survival-game" />
   </a>
-  <a href="https://github.com/esteban-vm/space-invaders-game">
+  <!-- <a href="https://github.com/esteban-vm/space-invaders-game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=space-invaders-game&theme=graywhite&hide_border=true#gh-light-mode-only" alt="space-invaders-game" />
   </a>
   <a href="https://github.com/esteban-vm/calculator">
@@ -134,7 +131,7 @@
   </a>
   <a href="https://github.com/esteban-vm/survival-game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=survival-game&theme=graywhite&hide_border=true#gh-light-mode-only" alt="survival-game" />
-  </a>
+  </a> -->
 </p>
 
 <!-- - 🌱 I’m currently learning:
