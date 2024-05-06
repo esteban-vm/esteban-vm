@@ -15,13 +15,12 @@
 
 <!-- Most Used Languages -->
 <p align="center">
-  <!-- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&&layout=pie&theme=radical&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c,html&custom_title=🚀%20My%20Most%20Used%20Languages" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&&layout=pie&theme=graywhite&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c,html&custom_title=🚀%20My%20Most%20Used%20Languages" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&&layout=pie&theme=radical&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c,html&custom_title=🚀%20My%20Most%20Used%20Languages" alt="Esteban V.M.'s Most Used Languages" />
-  </picture> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&&layout=pie&theme=graywhite&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c,html&custom_title=🚀%20My%20Most%20Used%20Languages" alt="Esteban V.M.'s Most Used Languages" class="light-only" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&&layout=pie&theme=radical&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c,html&custom_title=🚀%20My%20Most%20Used%20Languages" alt="Esteban V.M.'s Most Used Languages" class="dark-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=pie&theme=radical&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c,html&custom_title=🚀%20My%20Most%20Used%20Languages" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=pie&theme=graywhite&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c,html&custom_title=🚀%20My%20Most%20Used%20Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=pie&theme=radical&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c,html&custom_title=🚀%20My%20Most%20Used%20Languages" alt="Esteban V.M.'s Most Used Languages" />
+  </picture>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=pie&theme=radical&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c,html&custom_title=🚀%20My%20Most%20Used%20Languages" alt="Esteban V.M.'s Most Used Languages" /> -->
 </p>
 
 <!-- Trophies -->
