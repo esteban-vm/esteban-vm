@@ -10,7 +10,11 @@
 
 <!-- Profile views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=esteban-vm&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" title="Profile Views" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=esteban-vm&label=Profile%20views&color=blueviolet&style=for-the-badge" />
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=esteban-vm&label=Profile%20views&color=skyblue&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=esteban-vm&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" title="Profile Views" />
+  </picture>
 </p>
 
 <!-- Most Used Languages -->
