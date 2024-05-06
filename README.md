@@ -4,7 +4,7 @@
 <!-- Subheading -->
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Recursive&weight=500&size=30&pause=1000&color=FF428E&background=141321&center=true&vCenter=true&random=false&width=450&lines=A+Front-End+Developer;from+Paraguay+%F0%9F%87%B5%F0%9F%87%BE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Recursive&weight=500&size=30&pause=1000&color=FF428E&background=141321&center=true&vCenter=true&random=false&width=450&lines=A+Front-End+Developer;from+Paraguay+%F0%9F%87%B5%F0%9F%87%BE#gh-dark-mode-only" alt="Typing SVG" />
   </a>
 </h2>
 
@@ -15,27 +15,32 @@
 
 <!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&&layout=pie&theme=radical&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c,html&custom_title=🚀%20My%20Most%20Used%20Languages" alt="Esteban V.M.'s Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&&layout=pie&theme=radical&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c,html&custom_title=🚀%20My%20Most%20Used%20Languages#gh-dark-mode-only" alt="Esteban V.M.'s Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&&layout=pie&theme=graywhite&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c,html&custom_title=🚀%20My%20Most%20Used%20Languages#gh-light-mode-only" alt="Esteban V.M.'s Most Used Languages" />
 </p>
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,PullRequest,Followers,Experience" alt="Esteban V.M.'s Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,PullRequest,Followers,Experience#gh-dark-mode-only" alt="Esteban V.M.'s Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=oldie&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,PullRequest,Followers,Experience#gh-light-mode-only" alt="Esteban V.M.'s Trophies" />
 </p>
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&hide=contribs,issues&theme=radical&hide_border=true&rank_icon=github&custom_title=🚀%20My%20GitHub%20Stats" alt="Esteban V.M.'s GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&hide=contribs,issues&theme=radical&hide_border=true&rank_icon=github&custom_title=🚀%20My%20GitHub%20Stats#gh-dark-mode-only" alt="Esteban V.M.'s GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&hide=contribs,issues&theme=graywhite&hide_border=true&rank_icon=github&custom_title=🚀%20My%20GitHub%20Stats#gh-light-mode-only" alt="Esteban V.M.'s GitHub Stats" />
 </p>
 
 <!-- WakaTime Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=esteban90&theme=radical&hide_border=true&custom_title=🚀%20My%20WakaTime%20Stats%20(last%207%20days)" alt="Esteban V.M.'s WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=esteban90&theme=radical&hide_border=true&custom_title=🚀%20My%20WakaTime%20Stats%20(last%207%20days)#gh-dark-mode-only" alt="Esteban V.M.'s WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=esteban90&theme=graywhite&hide_border=true&custom_title=🚀%20My%20WakaTime%20Stats%20(last%207%20days)#gh-light-mode-only" alt="Esteban V.M.'s WakaTime Stats" />
 </p>
 
 <!-- Random Quotes -->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&layout=churchill&font=Gabrielle&animation=grow_out_in&quoteCategory=programming" alt="Esteban V.M.'s WakaTime Stats" />
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&layout=churchill&font=Gabrielle&animation=grow_out_in&quoteCategory=programming#gh-dark-mode-only" alt="Esteban V.M.'s WakaTime Stats" />
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=graywhite&layout=churchill&font=Gabrielle&animation=grow_out_in&quoteCategory=programming#gh-light-mode-only" alt="Esteban V.M.'s WakaTime Stats" />
 </p>
 
 <!-- Contributions Snake -->
@@ -50,43 +55,82 @@
 <!-- Pins -->
 <p align="center">
   <a href="https://github.com/esteban-vm/space-invaders-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=space-invaders-game&theme=radical&hide_border=true" alt="space-invaders-game" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=space-invaders-game&theme=radical&hide_border=true#gh-dark-mode-only" alt="space-invaders-game" />
   </a>
   <a href="https://github.com/esteban-vm/calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=calculator&theme=radical&hide_border=true" alt="calculator" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=calculator&theme=radical&hide_border=true#gh-dark-mode-only" alt="calculator" />
   </a>
   <a href="https://github.com/esteban-vm/card-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=card-game&theme=radical&hide_border=true" alt="card-game" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=card-game&theme=radical&hide_border=true#gh-dark-mode-only" alt="card-game" />
   </a>
   <a href="https://github.com/esteban-vm/note-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=note-app&theme=radical&hide_border=true" alt="note-app" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=note-app&theme=radical&hide_border=true#gh-dark-mode-only" alt="note-app" />
   </a>
   <a href="https://github.com/esteban-vm/bizwizz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=bizwizz&theme=radical&hide_border=true" alt="bizwizz" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=bizwizz&theme=radical&hide_border=true#gh-dark-mode-only" alt="bizwizz" />
   </a>
   <a href="https://github.com/esteban-vm/digisolve">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=digisolve&theme=radical&hide_border=true" alt="digisolve" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=digisolve&theme=radical&hide_border=true#gh-dark-mode-only" alt="digisolve" />
   </a>
   <a href="https://github.com/esteban-vm/awesome-javascript-effects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=awesome-javascript-effects&theme=radical&hide_border=true" alt="awesome-javascript-effects" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=awesome-javascript-effects&theme=radical&hide_border=true#gh-dark-mode-only" alt="awesome-javascript-effects" />
   </a>
   <a href="https://github.com/esteban-vm/advanced-text-effects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=advanced-text-effects&theme=radical&hide_border=true" alt="advanced-text-effects" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=advanced-text-effects&theme=radical&hide_border=true#gh-dark-mode-only" alt="advanced-text-effects" />
   </a>
   <a href="https://github.com/esteban-vm/connect-4-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=connect-4-game&theme=radical&hide_border=true" alt="connect-4-game" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=connect-4-game&theme=radical&hide_border=true#gh-dark-mode-only" alt="connect-4-game" />
   </a>
   <a href="https://github.com/esteban-vm/animated-physics-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=animated-physics-game&theme=radical&hide_border=true" alt="animated-physics-game" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=animated-physics-game&theme=radical&hide_border=true#gh-dark-mode-only" alt="animated-physics-game" />
   </a>
   <a href="https://github.com/esteban-vm/steampunk-scroller-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=steampunk-scroller-game&theme=radical&hide_border=true" alt="steampunk-scroller-game" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=steampunk-scroller-game&theme=radical&hide_border=true#gh-dark-mode-only" alt="steampunk-scroller-game" />
   </a>
   <a href="https://github.com/esteban-vm/zombie-horde-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=zombie-horde-game&theme=radical&hide_border=true" alt="zombie-horde-game" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=zombie-horde-game&theme=radical&hide_border=true#gh-dark-mode-only" alt="zombie-horde-game" />
   </a>
   <a href="https://github.com/esteban-vm/survival-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=survival-game&theme=radical&hide_border=true" alt="survival-game" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=survival-game&theme=radical&hide_border=true#gh-dark-mode-only" alt="survival-game" />
+  </a>
+  <a href="https://github.com/esteban-vm/space-invaders-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=space-invaders-game&theme=graywhite&hide_border=true#gh-light-mode-only" alt="space-invaders-game" />
+  </a>
+  <a href="https://github.com/esteban-vm/calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=calculator&theme=graywhite&hide_border=true#gh-light-mode-only" alt="calculator" />
+  </a>
+  <a href="https://github.com/esteban-vm/card-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=card-game&theme=graywhite&hide_border=true#gh-light-mode-only" alt="card-game" />
+  </a>
+  <a href="https://github.com/esteban-vm/note-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=note-app&theme=graywhite&hide_border=true#gh-light-mode-only" alt="note-app" />
+  </a>
+  <a href="https://github.com/esteban-vm/bizwizz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=bizwizz&theme=graywhite&hide_border=true#gh-light-mode-only" alt="bizwizz" />
+  </a>
+  <a href="https://github.com/esteban-vm/digisolve">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=digisolve&theme=graywhite&hide_border=true#gh-light-mode-only" alt="digisolve" />
+  </a>
+  <a href="https://github.com/esteban-vm/awesome-javascript-effects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=awesome-javascript-effects&theme=graywhite&hide_border=true#gh-light-mode-only" alt="awesome-javascript-effects" />
+  </a>
+  <a href="https://github.com/esteban-vm/advanced-text-effects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=advanced-text-effects&theme=graywhite&hide_border=true#gh-light-mode-only" alt="advanced-text-effects" />
+  </a>
+  <a href="https://github.com/esteban-vm/connect-4-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=connect-4-game&theme=graywhite&hide_border=true#gh-light-mode-only" alt="connect-4-game" />
+  </a>
+  <a href="https://github.com/esteban-vm/animated-physics-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=animated-physics-game&theme=graywhite&hide_border=true#gh-light-mode-only" alt="animated-physics-game" />
+  </a>
+  <a href="https://github.com/esteban-vm/steampunk-scroller-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=steampunk-scroller-game&theme=graywhite&hide_border=true#gh-light-mode-only" alt="steampunk-scroller-game" />
+  </a>
+  <a href="https://github.com/esteban-vm/zombie-horde-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=zombie-horde-game&theme=graywhite&hide_border=true#gh-light-mode-only" alt="zombie-horde-game" />
+  </a>
+  <a href="https://github.com/esteban-vm/survival-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=survival-game&theme=graywhite&hide_border=true#gh-light-mode-only" alt="survival-game" />
   </a>
 </p>
 
