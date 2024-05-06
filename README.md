@@ -16,44 +16,47 @@
 <!-- Most Used Languages -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=pie&theme=radical&hide_border=true&custom_title=🚀%20My%20Most%20Used%20Languages&hide=swift%2Ccmake%2Cc%2Cc%2B%2B%2Ckotlin%2Cobjective-c%2Chtml" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=pie&theme=graywhite&hide_border=true&custom_title=🚀%20My%20Most%20Used%20Languages&hide=swift%2Ccmake%2Cc%2Cc%2B%2B%2Ckotlin%2Cobjective-c%2Chtml" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=pie&theme=radical&hide_border=true&custom_title=🚀%20My%20Most%20Used%20Languages&hide=swift%2Ccmake%2Cc%2Cc%2B%2B%2Ckotlin%2Cobjective-c%2Chtml" alt="Esteban V.M.'s Most Used Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=pie&theme=radical&hide_border=true&hide=swift%2Ccmake%2Cc%2Cc%2B%2B%2Ckotlin%2Cobjective-c%2Chtml&custom_title=🚀%20My%20Most%20Used%20Languages" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=pie&theme=graywhite&hide_border=true&hide=swift%2Ccmake%2Cc%2Cc%2B%2B%2Ckotlin%2Cobjective-c%2Chtml&custom_title=🚀%20My%20Most%20Used%20Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=pie&theme=radical&hide_border=true&hide=swift%2Ccmake%2Cc%2Cc%2B%2B%2Ckotlin%2Cobjective-c%2Chtml&custom_title=🚀%20My%20Most%20Used%20Languages" alt="Esteban V.M.'s Most Used Languages" />
   </picture>
 </p>
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,PullRequest,Followers,Experience" alt="Esteban V.M.'s Trophies" />
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=oldie&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,PullRequest,Followers,Experience" alt="Esteban V.M.'s Trophies" /> -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits%2CRepositories%2CStars%2CPullRequest%2CFollowers%2CExperience" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=oldie&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits%2CRepositories%2CStars%2CPullRequest%2CFollowers%2CExperience" />
+    <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits%2CRepositories%2CStars%2CPullRequest%2CFollowers%2CExperience" alt="Esteban V.M.'s Trophies" />
+  </picture>
 </p>
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&hide=contribs,issues&theme=radical&hide_border=true&rank_icon=github&custom_title=🚀%20My%20GitHub%20Stats" alt="Esteban V.M.'s GitHub Stats" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&hide=contribs,issues&theme=graywhite&hide_border=true&rank_icon=github&custom_title=🚀%20My%20GitHub%20Stats" alt="Esteban V.M.'s GitHub Stats" /> -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&hide=contribs%2Cissues&theme=radical&hide_border=true&rank_icon=github&custom_title=🚀%20My%20GitHub%20Stats" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&hide=contribs%2Cissues&theme=graywhite&hide_border=true&rank_icon=github&custom_title=🚀%20My%20GitHub%20Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&hide=contribs%2Cissues&theme=radical&hide_border=true&rank_icon=github&custom_title=🚀%20My%20GitHub%20Stats" alt="Esteban V.M.'s GitHub Stats" />
+  </picture>
 </p>
 
 <!-- WakaTime Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=esteban90&theme=radical&hide_border=true&custom_title=🚀%20My%20WakaTime%20Stats%20(last%207%20days)" alt="Esteban V.M.'s WakaTime Stats" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=esteban90&theme=graywhite&hide_border=true&custom_title=🚀%20My%20WakaTime%20Stats%20(last%207%20days)" alt="Esteban V.M.'s WakaTime Stats" /> -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=esteban90&theme=radical&hide_border=true&custom_title=🚀%20My%20WakaTime%20Stats%20(last%207%20days)" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=esteban90&theme=graywhite&hide_border=true&custom_title=🚀%20My%20WakaTime%20Stats%20(last%207%20days)" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=esteban90&theme=radical&hide_border=true&custom_title=🚀%20My%20WakaTime%20Stats%20(last%207%20days)" alt="Esteban V.M.'s WakaTime Stats" />
+  </picture>
 </p>
 
 <!-- Random Quotes -->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&layout=churchill&font=Gabrielle&animation=grow_out_in&quoteCategory=programming" alt="Esteban V.M.'s WakaTime Stats" />
-  <!-- <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=graywhite&layout=churchill&font=Gabrielle&animation=grow_out_in&quoteCategory=programming" alt="Esteban V.M.'s WakaTime Stats" /> -->
-</p>
-
-<!-- Contributions Snake -->
-<!-- <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&layout=churchill&font=Gabrielle&animation=grow_out_in&quoteCategory=programming" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-quotes-bay.vercel.app/quote?theme=graywhite&layout=churchill&font=Gabrielle&animation=grow_out_in&quoteCategory=programming" />
+    <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&layout=churchill&font=Gabrielle&animation=grow_out_in&quoteCategory=programming" alt="Esteban V.M.'s WakaTime Stats" />
   </picture>
-</p> -->
+</p>
 
 <!-- Pins -->
 <p align="center">
