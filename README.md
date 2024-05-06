@@ -129,7 +129,7 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=connect-4-game&theme=radical&hide_border=true" alt="Connect 4 Game" title="Connect 4 Game" />
     </picture>
   </a>
-  <a href="https://github.com/esteban-vm/animated-Ahysics Pam G>
+  <a href="https://github.com/esteban-vm/animated-physics-game">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=animated-physics-game&theme=radical&hide_border=true" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=animated-physics-game&theme=graywhite" />
