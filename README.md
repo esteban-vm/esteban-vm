@@ -17,7 +17,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=pie&theme=radical&hide_border=true&hide=swift%2Ccmake%2Cc%2Cc%2B%2B%2Ckotlin%2Cobjective-c%2Chtml&custom_title=🚀%20My%20Most%20Used%20Languages" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=pie&theme=graywhite&hide_border=true&hide=swift%2Ccmake%2Cc%2Cc%2B%2B%2Ckotlin%2Cobjective-c%2Chtml&custom_title=🚀%20My%20Most%20Used%20Languages" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=pie&theme=graywhite&hide=swift%2Ccmake%2Cc%2Cc%2B%2B%2Ckotlin%2Cobjective-c%2Chtml&custom_title=🚀%20My%20Most%20Used%20Languages" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=pie&theme=radical&hide_border=true&hide=swift%2Ccmake%2Cc%2Cc%2B%2B%2Ckotlin%2Cobjective-c%2Chtml&custom_title=🚀%20My%20Most%20Used%20Languages" alt="Esteban V.M.'s Most Used Languages" />
   </picture>
 </p>
@@ -26,7 +26,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits%2CRepositories%2CStars%2CPullRequest%2CFollowers%2CExperience" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=oldie&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits%2CRepositories%2CStars%2CPullRequest%2CFollowers%2CExperience" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=flat&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits%2CRepositories%2CStars%2CPullRequest%2CFollowers%2CExperience" />
     <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits%2CRepositories%2CStars%2CPullRequest%2CFollowers%2CExperience" alt="Esteban V.M.'s Trophies" />
   </picture>
 </p>
@@ -53,7 +53,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&layout=churchill&font=Gabrielle&animation=grow_out_in&quoteCategory=programming" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-quotes-bay.vercel.app/quote?theme=graywhite&layout=churchill&font=Gabrielle&animation=grow_out_in&quoteCategory=programming" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-quotes-bay.vercel.app/quote?theme=blueberry&layout=churchill&font=Gabrielle&animation=grow_out_in&quoteCategory=programming" />
     <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&layout=churchill&font=Gabrielle&animation=grow_out_in&quoteCategory=programming" alt="Esteban V.M.'s WakaTime Stats" />
   </picture>
 </p>
@@ -152,23 +152,6 @@
     </picture>
   </a>
 </p>
-
-<!-- - 🌱 I’m currently learning:
-
-  - <img src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React Native" alt="React Native" /> -->
-
-<!-- - 💬 Ask me about:
-
-  - <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React" alt="React" />
-  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript" />
-  - <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" title="TypeScript" alt="TypeScript" />
-  - <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" title="Flutter" alt="Flutter" />
-  - <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" title="TailwindCSS" alt="TailwindCSS" /> -->
-
-<!-- - 🌐 In:
-
-  - <img src="https://img.shields.io/badge/Lang-EN-40B0C2?style=for-the-badge" alt="English" title="English" />
-  - <img src="https://img.shields.io/badge/Lang-ES-801172?style=for-the-badge" alt="Spanish" title="Spanish" /> -->
 
 <h3 align="left">Ask me about:</h3>
 
@@ -374,3 +357,20 @@
     <img src="https://img.shields.io/badge/MDN%20Web%20Docs-000000.svg?style=for-the-badge&logo=MDN-Web-Docs&logoColor=white" alt="Mozilla Developer Network" />
   </a>
 </p>
+
+<!-- - 🌱 I’m currently learning:
+
+  - <img src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React Native" alt="React Native" /> -->
+
+<!-- - 💬 Ask me about:
+
+  - <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React" alt="React" />
+  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript" />
+  - <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" title="TypeScript" alt="TypeScript" />
+  - <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" title="Flutter" alt="Flutter" />
+  - <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" title="TailwindCSS" alt="TailwindCSS" /> -->
+
+<!-- - 🌐 In:
+
+  - <img src="https://img.shields.io/badge/Lang-EN-40B0C2?style=for-the-badge" alt="English" title="English" />
+  - <img src="https://img.shields.io/badge/Lang-ES-801172?style=for-the-badge" alt="Spanish" title="Spanish" /> -->
