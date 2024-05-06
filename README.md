@@ -15,7 +15,10 @@
 
 <!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&&layout=pie&theme=radical&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c,html&custom_title=🚀%20My%20Most%20Used%20Languages" alt="Esteban V.M.'s Most Used Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&&layout=pie&theme=radical&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c,html&custom_title=🚀%20My%20Most%20Used%20Languages" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&&layout=pie&theme=radical&hide_border=true&hide=swift,cmake,c,c%2B%2B,kotlin,objective-c,html&custom_title=🚀%20My%20Most%20Used%20Languages" alt="Esteban V.M.'s Most Used Languages" /> -->
+  </picture>
 </p>
 
 <!-- Trophies -->
