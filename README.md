@@ -32,7 +32,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits%2CRepositories%2CStars%2CPullRequest%2CFollowers%2CExperience" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=flat&row=2&column=3&margin-w=15&margin-h=15&title=Commits%2CRepositories%2CStars%2CPullRequest%2CFollowers%2CExperience" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=oldie&row=2&column=3&margin-w=15&margin-h=15&title=Commits%2CRepositories%2CStars%2CPullRequest%2CFollowers%2CExperience" />
     <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits%2CRepositories%2CStars%2CPullRequest%2CFollowers%2CExperience" alt="Esteban V.M.'s Trophies" title="Esteban V.M.'s Trophies" />
   </picture>
 </p>
@@ -59,7 +59,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&layout=churchill&font=Gabrielle&animation=grow_out_in&quoteCategory=programming" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-quotes-bay.vercel.app/quote?theme=blueberry&layout=churchill&font=Gabrielle&animation=grow_out_in&quoteCategory=programming" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-quotes-bay.vercel.app/quote?theme=solarized-light&layout=churchill&font=Gabrielle&animation=grow_out_in&quoteCategory=programming" />
     <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&layout=churchill&font=Gabrielle&animation=grow_out_in&quoteCategory=programming" alt="Random Quote" title="Random Quote" />
   </picture>
 </p>
