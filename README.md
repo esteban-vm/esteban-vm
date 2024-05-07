@@ -23,7 +23,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=pie&theme=radical&hide_border=true&hide=swift%2Ccmake%2Cc%2Cc%2B%2B%2Ckotlin%2Cobjective-c%2Chtml&custom_title=🚀%20My%20Most%20Used%20Languages" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=pie&theme=graywhite&hide=swift%2Ccmake%2Cc%2Cc%2B%2B%2Ckotlin%2Cobjective-c%2Chtml&custom_title=🚀%20My%20Most%20Used%20Languages" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=donut-vertical&theme=graywhite&hide=swift%2Ccmake%2Cc%2Cc%2B%2B%2Ckotlin%2Cobjective-c%2Chtml&custom_title=🚀%20My%20Most%20Used%20Languages" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=pie&theme=radical&hide_border=true&hide=swift%2Ccmake%2Cc%2Cc%2B%2B%2Ckotlin%2Cobjective-c%2Chtml&custom_title=🚀%20My%20Most%20Used%20Languages" alt="Esteban V.M.'s Most Used Languages" title="Esteban V.M.'s Most Used Languages" />
   </picture>
 </p>
