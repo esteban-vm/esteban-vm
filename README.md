@@ -23,7 +23,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=pie&theme=radical&hide_border=true&hide=swift%2Ccmake%2Cc%2Cc%2B%2B%2Ckotlin%2Cobjective-c%2Chtml&custom_title=🚀%20My%20Most%20Used%20Languages" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=donut-vertical&theme=graywhite&hide=swift%2Ccmake%2Cc%2Cc%2B%2B%2Ckotlin%2Cobjective-c%2Chtml&custom_title=🚀%20My%20Most%20Used%20Languages" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=donut-vertical&theme=solarized-light&hide=swift%2Ccmake%2Cc%2Cc%2B%2B%2Ckotlin%2Cobjective-c%2Chtml&custom_title=🚀%20My%20Most%20Used%20Languages" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=pie&theme=radical&hide_border=true&hide=swift%2Ccmake%2Cc%2Cc%2B%2B%2Ckotlin%2Cobjective-c%2Chtml&custom_title=🚀%20My%20Most%20Used%20Languages" alt="Esteban V.M.'s Most Used Languages" title="Esteban V.M.'s Most Used Languages" />
   </picture>
 </p>
@@ -41,7 +41,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&hide=contribs%2Cissues&theme=radical&hide_border=true&rank_icon=github&custom_title=🚀%20My%20GitHub%20Stats" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&hide=contribs%2Cissues&theme=graywhite&rank_icon=github&custom_title=🚀%20My%20GitHub%20Stats" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&hide=contribs%2Cissues&theme=solarized-light&rank_icon=github&custom_title=🚀%20My%20GitHub%20Stats" />
     <img src="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&hide=contribs%2Cissues&theme=radical&hide_border=true&rank_icon=github&custom_title=🚀%20My%20GitHub%20Stats" alt="Esteban V.M.'s GitHub Stats" title="Esteban V.M.'s GitHub Stats" />
   </picture>
 </p>
@@ -50,7 +50,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=esteban90&theme=radical&hide_border=true&custom_title=🚀%20My%20WakaTime%20Stats%20(last%207%20days)" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=esteban90&theme=graywhite&custom_title=🚀%20My%20WakaTime%20Stats%20(last%207%20days)" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=esteban90&theme=solarized-light&custom_title=🚀%20My%20WakaTime%20Stats%20(last%207%20days)" />
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=esteban90&theme=radical&hide_border=true&custom_title=🚀%20My%20WakaTime%20Stats%20(last%207%20days)" alt="Esteban V.M.'s WakaTime Stats" title="Esteban V.M.'s WakaTime Stats" />
   </picture>
 </p>
@@ -69,91 +69,91 @@
   <a href="https://github.com/esteban-vm/space-invaders-game">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=space-invaders-game&theme=radical&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=space-invaders-game&theme=graywhite" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=space-invaders-game&theme=solarized-light" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=space-invaders-game&theme=radical&hide_border=true" alt="Space Invaders Game" title="Space Invaders Game" />
     </picture>
   </a>
   <a href="https://github.com/esteban-vm/calculator">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=calculator&theme=radical&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=calculator&theme=graywhite" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=calculator&theme=solarized-light" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=calculator&theme=radical&hide_border=true" alt="Calculator" title="Calculator" />
     </picture>
   </a>
   <a href="https://github.com/esteban-vm/card-game">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=card-game&theme=radical&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=card-game&theme=graywhite" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=card-game&theme=solarized-light" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=card-game&theme=radical&hide_border=true" alt="Card Game" title="Card Game" />
     </picture>
   </a>
   <a href="https://github.com/esteban-vm/note-app">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=note-app&theme=radical&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=note-app&theme=graywhite" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=note-app&theme=solarized-light" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=note-app&theme=radical&hide_border=true" alt="Note App" title="Note App" />
     </picture>
   </a>
   <a href="https://github.com/esteban-vm/bizwizz">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=bizwizz&theme=radical&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=bizwizz&theme=graywhite" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=bizwizz&theme=solarized-light" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=bizwizz&theme=radical&hide_border=true" alt="Bizwizz" title="Bizwizz" />
     </picture>
   </a>
   <a href="https://github.com/esteban-vm/digisolve">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=digisolve&theme=radical&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=digisolve&theme=graywhite" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=digisolve&theme=solarized-light" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=digisolve&theme=radical&hide_border=true" alt="Digisolve" title="Digisolve" />
     </picture>
   </a>
   <a href="https://github.com/esteban-vm/awesome-javascript-effects">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=awesome-javascript-effects&theme=radical&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=awesome-javascript-effects&theme=graywhite" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=awesome-javascript-effects&theme=solarized-light" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=awesome-javascript-effects&theme=radical&hide_border=true" alt="Awesome JavaScript Effects" title="Awesome JavaScript Effects" />
     </picture>
   </a>
   <a href="https://github.com/esteban-vm/advanced-text-effects">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=advanced-text-effects&theme=radical&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=advanced-text-effects&theme=graywhite" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=advanced-text-effects&theme=solarized-light" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=advanced-text-effects&theme=radical&hide_border=true" alt="Advanced Text Effects" title="Advanced Text Effects" />
     </picture>
   </a>
   <a href="https://github.com/esteban-vm/connect-4-game">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=connect-4-game&theme=radical&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=connect-4-game&theme=graywhite" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=connect-4-game&theme=solarized-light" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=connect-4-game&theme=radical&hide_border=true" alt="Connect 4 Game" title="Connect 4 Game" />
     </picture>
   </a>
   <a href="https://github.com/esteban-vm/animated-physics-game">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=animated-physics-game&theme=radical&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=animated-physics-game&theme=graywhite" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=animated-physics-game&theme=solarized-light" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=animated-physics-game&theme=radical&hide_border=true" alt="Animated Physics Game" title="Animated Physics Game" />
     </picture>
   </a>
   <a href="https://github.com/esteban-vm/steampunk-scroller-game">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=steampunk-scroller-game&theme=radical&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=steampunk-scroller-game&theme=graywhite" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=steampunk-scroller-game&theme=solarized-light" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=steampunk-scroller-game&theme=radical&hide_border=true" alt="Steampunk Scroller Game" title="Steampunk Scroller Game" />
     </picture>
   </a>
   <a href="https://github.com/esteban-vm/zombie-horde-game">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=zombie-horde-game&theme=radical&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=zombie-horde-game&theme=graywhite" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=zombie-horde-game&theme=solarized-light" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=zombie-horde-game&theme=radical&hide_border=true" alt="Zombie Horde Game" title="Zombie Horde Game" />
     </picture>
   </a>
   <a href="https://github.com/esteban-vm/survival-game">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=survival-game&theme=radical&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=survival-game&theme=graywhite" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=survival-game&theme=solarized-light" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=survival-game&theme=radical&hide_border=true" alt="Survival Game" title="Survival Game" />
     </picture>
   </a>
