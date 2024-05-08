@@ -24,7 +24,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=pie&theme=radical&hide_border=true&hide=swift%2Ccmake%2Cc%2Cc%2B%2B%2Ckotlin%2Cobjective-c%2Chtml&custom_title=🚀%20My%20Most%20Used%20Languages" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=donut-vertical&theme=solarized-light&hide=swift%2Ccmake%2Cc%2Cc%2B%2B%2Ckotlin%2Cobjective-c%2Chtml&custom_title=🚀%20My%20Most%20Used%20Languages" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=pie&theme=radical&hide_border=true&hide=swift%2Ccmake%2Cc%2Cc%2B%2B%2Ckotlin%2Cobjective-c%2Chtml&custom_title=🚀%20My%20Most%20Used%20Languages" alt="Esteban V.M.'s Most Used Languages" title="Esteban V.M.'s Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban-vm&show_icons=true&layout=pie&theme=radical&hide_border=true&hide=swift%2Ccmake%2Cc%2Cc%2B%2B%2Ckotlin%2Cobjective-c%2Chtml&custom_title=🚀%20My%20Most%20Used%20Languages" alt="My Most Used Languages" title="My Most Used Languages" />
   </picture>
 </p>
 
@@ -33,7 +33,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits%2CRepositories%2CStars%2CPullRequest%2CFollowers%2CExperience" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=oldie&row=2&column=3&margin-w=15&margin-h=15&title=Commits%2CRepositories%2CStars%2CPullRequest%2CFollowers%2CExperience" />
-    <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits%2CRepositories%2CStars%2CPullRequest%2CFollowers%2CExperience" alt="Esteban V.M.'s Trophies" title="Esteban V.M.'s Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits%2CRepositories%2CStars%2CPullRequest%2CFollowers%2CExperience" alt="My Trophies" title="My Trophies" />
   </picture>
 </p>
 
@@ -42,7 +42,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&hide=contribs%2Cissues&theme=radical&hide_border=true&rank_icon=github&custom_title=🚀%20My%20GitHub%20Stats" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&hide=contribs%2Cissues&theme=solarized-light&rank_icon=github&custom_title=🚀%20My%20GitHub%20Stats" />
-    <img src="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&hide=contribs%2Cissues&theme=radical&hide_border=true&rank_icon=github&custom_title=🚀%20My%20GitHub%20Stats" alt="Esteban V.M.'s GitHub Stats" title="Esteban V.M.'s GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=esteban-vm&show_icons=true&hide=contribs%2Cissues&theme=radical&hide_border=true&rank_icon=github&custom_title=🚀%20My%20GitHub%20Stats" alt="My GitHub Stats" title="My GitHub Stats" />
   </picture>
 </p>
 
@@ -51,7 +51,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=esteban90&theme=radical&hide_border=true&custom_title=🚀%20My%20WakaTime%20Stats%20(last%207%20days)" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=esteban90&theme=solarized-light&custom_title=🚀%20My%20WakaTime%20Stats%20(last%207%20days)" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=esteban90&theme=radical&hide_border=true&custom_title=🚀%20My%20WakaTime%20Stats%20(last%207%20days)" alt="Esteban V.M.'s WakaTime Stats" title="Esteban V.M.'s WakaTime Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=esteban90&theme=radical&hide_border=true&custom_title=🚀%20My%20WakaTime%20Stats%20(last%207%20days)" alt="My WakaTime Stats" title="My WakaTime Stats" />
   </picture>
 </p>
 
