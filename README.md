@@ -159,7 +159,17 @@
   </a>
 </p>
 
-<h3 align="left">Ask me about:</h3>
+<h3 align="left">🌱 I’m currently learning:</h3>
+
+<p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=flat&logo=React&logoColor=black" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=plastic&logo=React&logoColor=black" />
+      <img src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React" title="React Native" />
+    </picture>
+</p>
+
+<h3 align="left">💬 Ask me about:</h3>
 
 <p align="center">
   <!-- <a href="https://nextjs.org/"> -->
@@ -206,7 +216,7 @@
   <!-- </a> -->
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect with me:</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vm-esteban/">
@@ -274,7 +284,7 @@
   </a> -->
 </p>
 
-<h3 align="left">Languages I've learnt:</h3>
+<h3 align="left">💻 Languages I've learnt:</h3>
 
 <p align="center">
   <!-- <a href="https://www.w3.org/html/"> -->
@@ -328,7 +338,7 @@
   <!-- </a> -->
 </p>
 
-<h3 align="left">Tools/Frameworks I've worked with:</h3>
+<h3 align="left">🧰 Tools/Frameworks I've worked with:</h3>
 
 <p align="center">
   <!-- <a href="https://nextjs.org/"> -->
@@ -557,7 +567,7 @@
   </a> -->
 </p>
 
-<h3 align="left">Learning resources:</h3>
+<h3 align="left">🎓 Learning resources:</h3>
 
 <p align="center">
   <a href="https://www.freecodecamp.org/">
@@ -611,18 +621,6 @@
   </a>
 </p>
 
-<!-- - 🌱 I’m currently learning:
-
-  - <img src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=flat-square&logo=React&logoColor=black" title="React Native" alt="React Native" /> -->
-
-<!-- - 💬 Ask me about:
-
-  - <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=React&logoColor=black" title="React" alt="React" />
-  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript" />
-  - <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white" title="TypeScript" alt="TypeScript" />
-  - <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=flat-square&logo=Flutter&logoColor=white" title="Flutter" alt="Flutter" />
-  - <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=flat-square&logo=Tailwind-CSS&logoColor=white" title="Tailwind CSS" alt="Tailwind CSS" /> -->
-
 <!-- - 🌐 In:
 
   - <img src="https://img.shields.io/badge/Lang-EN-40B0C2?style=flat-square" alt="English" title="English" />
@@ -631,3 +629,4 @@
 <!-- <img src="https://img.shields.io/badge/4chan-060?logo=4chan&logoColor=fff&style=plastic" alt="4chan Badge">
 <img src="https://img.shields.io/badge/4chan-060?logo=4chan&logoColor=fff&style=flat-square" alt="4chan Badge">
 <img src="https://img.shields.io/badge/4chan-060?logo=4chan&logoColor=fff&style=flat" alt="4chan Badge"> -->
+
