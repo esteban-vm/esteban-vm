@@ -19,6 +19,15 @@
   </picture>
 </p>
 
+<!-- WakaTime -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/badge/user/018c4b00-8d62-466f-9074-3b14bf48ce82.svg?style=flat" />
+    <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/badge/user/018c4b00-8d62-466f-9074-3b14bf48ce82.svg?style=plastic" />
+    <img src="https://wakatime.com/badge/user/018c4b00-8d62-466f-9074-3b14bf48ce82.svg?style=for-the-badge" alt="Total time coded since Dec 8 2023" title="Total time coded since Dec 8 2023" />
+  </picture>
+</p>
+
 <!-- Most Used Languages -->
 <p align="center">
   <picture>
@@ -629,4 +638,3 @@
 <!-- <img src="https://img.shields.io/badge/4chan-060?logo=4chan&logoColor=fff&style=plastic" alt="4chan Badge">
 <img src="https://img.shields.io/badge/4chan-060?logo=4chan&logoColor=fff&style=flat-square" alt="4chan Badge">
 <img src="https://img.shields.io/badge/4chan-060?logo=4chan&logoColor=fff&style=flat" alt="4chan Badge"> -->
-
