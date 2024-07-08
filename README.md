@@ -628,6 +628,13 @@
       <img src="https://img.shields.io/badge/MDN%20Web%20Docs-000000.svg?style=for-the-badge&logo=MDN-Web-Docs&logoColor=white" alt="Mozilla Developer Network" title="Mozilla Developer Network" />
     </picture>
   </a>
+  <a href="https://ankiweb.net/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Anki-80C2EE.svg?style=flat&logo=Anki&logoColor=black" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Anki-80C2EE.svg?style=plastic&logo=Anki&logoColor=black" />
+      <img src="https://img.shields.io/badge/Anki-80C2EE.svg?style=for-the-badge&logo=Anki&logoColor=black" alt="AnkiWeb" title="AnkiWeb" />
+    </picture>
+  </a>
 </p>
 
 <!-- - 🌐 In:
