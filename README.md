@@ -263,20 +263,20 @@
       <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" title="Telegram" />
     </picture>
   </a>
-  <!-- <a href="https://codepen.io/esteban-vera/">
+  <a href="https://codepen.io/esteban-vera/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CodePen-000000.svg?style=flat&logo=CodePen&logoColor=white" />
       <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CodePen-000000.svg?style=plastic&logo=CodePen&logoColor=white" />
       <img src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="CodePen" title="CodePen" />
     </picture>
   </a>
-  <a href="https://codesandbox.com/estebanvm1990/">
+  <!-- <a href="https://codesandbox.com/estebanvm1990/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CodeSandbox-151515.svg?style=flat&logo=CodeSandbox&logoColor=white" />
       <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CodeSandbox-151515.svg?style=plastic&logo=CodeSandbox&logoColor=white" />
       <img src="https://img.shields.io/badge/CodeSandbox-151515.svg?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="CodeSandbox" title="CodeSandbox" />
     </picture>
-  </a>
+  </a> -->
   <a href="https://replit.com/@esteban-90/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Replit-F26207.svg?style=flat&logo=Replit&logoColor=white" />
@@ -284,7 +284,7 @@
       <img src="https://img.shields.io/badge/Replit-F26207.svg?style=for-the-badge&logo=Replit&logoColor=white" alt="Replit" title="Replit" />
     </picture>
   </a>
-  <a href="https://stackoverflow.com/users/23014685/esteban-vm/">
+  <!-- <a href="https://stackoverflow.com/users/23014685/esteban-vm/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=flat&logo=Stack-Overflow&logoColor=white" />
       <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=plastic&logo=Stack-Overflow&logoColor=white" />
@@ -641,7 +641,3 @@
 
   - <img src="https://img.shields.io/badge/Lang-EN-40B0C2?style=flat-square" alt="English" title="English" />
   - <img src="https://img.shields.io/badge/Lang-ES-801172?style=flat-square" alt="Spanish" title="Spanish" /> -->
-
-<!-- <img src="https://img.shields.io/badge/4chan-060?logo=4chan&logoColor=fff&style=plastic" alt="4chan Badge">
-<img src="https://img.shields.io/badge/4chan-060?logo=4chan&logoColor=fff&style=flat-square" alt="4chan Badge">
-<img src="https://img.shields.io/badge/4chan-060?logo=4chan&logoColor=fff&style=flat" alt="4chan Badge"> -->
