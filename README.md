@@ -635,6 +635,13 @@
       <img src="https://img.shields.io/badge/Anki-80C2EE.svg?style=for-the-badge&logo=Anki&logoColor=black" alt="AnkiWeb" title="AnkiWeb" />
     </picture>
   </a>
+  <a href="https://www.theodinproject.com/">
+    <picture>
+      <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/The%20Odin%20Project-A9792B.svg?style=flat&logo=The-Odin-Project&logoColor=white" /> -->
+      <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/The%20Odin%20Project-A9792B.svg?style=plastic&logo=The-Odin-Project&logoColor=white" /> -->
+      <img src="https://img.shields.io/badge/The%20Odin%20Project-A9792B.svg?style=for-the-badge&logo=The-Odin-Project&logoColor=white" alt="The Odin Project" title="The Odin Project" />
+    </picture>
+  </a>
 </p>
 
 <!-- - 🌐 In:
