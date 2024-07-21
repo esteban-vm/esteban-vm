@@ -176,13 +176,13 @@
     <img src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React" title="React Native" />
   </picture>
 
-<h3 align="left">🛠️ I'm currently working on my:</h3>
+<h3 align="left">🛠️ I'm currently working on:</h3>
 
 - <a href="https://github.com/esteban-vm/my-portfolio">
     <picture>
-      <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139" /> -->
-      <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139" /> -->
-      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" title="Portfolio" />
+      <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139" /> -->
+      <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139" /> -->
+      <img src="https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" title="Portfolio" />
     </picture>
   </a>
 
