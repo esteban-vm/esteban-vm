@@ -393,6 +393,13 @@
       <img src="https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white" alt="React Query" title="React Query" />
     </picture>
   <!-- </a> -->
+  <!-- <a href="https://legacy.reactjs.org/docs/context.html"> -->
+    <picture>
+      <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react" /> -->
+      <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react" /> -->
+      <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" alt="Context API" title="Context API" />
+    </picture>
+  <!-- </a> -->
   <!-- <a href="https://redux.js.org/"> -->
     <picture>
       <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Redux-764ABC.svg?style=flat&logo=Redux&logoColor=white" /> -->
