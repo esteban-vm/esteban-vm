@@ -168,23 +168,23 @@
   </a>
 </p>
 
-<h3 align="left">🌱 I’m currently learning:</h3>
-
-- <picture>
+<h3 align="left">🌱 I’m currently learning: 
+  <picture>
     <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=flat&logo=React&logoColor=black" /> -->
     <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=plastic&logo=React&logoColor=black" /> -->
     <img src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React" title="React Native" />
   </picture>
+</h3>
 
-<h3 align="left">🛠️ I'm currently working on:</h3>
-
-- <a href="https://github.com/esteban-vm/my-portfolio">
+<h3 align="left">🛠️ I'm currently working on: 
+  <a href="https://github.com/esteban-vm/my-portfolio">
     <picture>
       <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139" /> -->
       <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139" /> -->
       <img src="https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" title="Portfolio" />
     </picture>
   </a>
+</h3>
 
 <h3 align="left">💬 Ask me about:</h3>
 
@@ -271,13 +271,13 @@
       <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" title="Telegram" />
     </picture>
   </a>
-  <a href="https://codepen.io/esteban-vera/">
-    <picture>
+  <!-- <a href="https://codepen.io/esteban-vera/"> -->
+    <!-- <picture> -->
       <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CodePen-000000.svg?style=flat&logo=CodePen&logoColor=white" /> -->
       <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CodePen-000000.svg?style=plastic&logo=CodePen&logoColor=white" /> -->
-      <img src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="CodePen" title="CodePen" />
-    </picture>
-  </a>
+      <!-- <img src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="CodePen" title="CodePen" /> -->
+    <!-- </picture> -->
+  <!-- </a> -->
   <!-- <a href="https://codesandbox.com/estebanvm1990/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CodeSandbox-151515.svg?style=flat&logo=CodeSandbox&logoColor=white" />
@@ -285,13 +285,13 @@
       <img src="https://img.shields.io/badge/CodeSandbox-151515.svg?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="CodeSandbox" title="CodeSandbox" />
     </picture>
   </a> -->
-  <a href="https://replit.com/@esteban-90/">
-    <picture>
+  <!-- <a href="https://replit.com/@esteban-90/"> -->
+    <!-- <picture> -->
       <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Replit-F26207.svg?style=flat&logo=Replit&logoColor=white" /> -->
       <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Replit-F26207.svg?style=plastic&logo=Replit&logoColor=white" /> -->
-      <img src="https://img.shields.io/badge/Replit-F26207.svg?style=for-the-badge&logo=Replit&logoColor=white" alt="Replit" title="Replit" />
-    </picture>
-  </a>
+      <!-- <img src="https://img.shields.io/badge/Replit-F26207.svg?style=for-the-badge&logo=Replit&logoColor=white" alt="Replit" title="Replit" /> -->
+    <!-- </picture> -->
+  <!-- </a> -->
   <!-- <a href="https://stackoverflow.com/users/23014685/esteban-vm/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=flat&logo=Stack-Overflow&logoColor=white" />
