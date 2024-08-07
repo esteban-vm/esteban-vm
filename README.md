@@ -166,6 +166,13 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=survival-game&theme=radical&hide_border=true" alt="Survival Game" title="Survival Game" />
     </picture>
   </a>
+  <a href="https://github.com/esteban-vm/snap-tiles">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=snap-tiles&theme=radical&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=snap-tiles&theme=solarized-light" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=snap-tiles&theme=radical&hide_border=true" alt="Snap Tiles" title="Snap Tiles" />
+    </picture>
+  </a>
 </p>
 
 <h3 align="left">🌱 I’m currently learning: 
