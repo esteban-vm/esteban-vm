@@ -175,23 +175,27 @@
   </a>
 </p>
 
-<h3 align="left">🌱 I’m currently learning: 
+<h3 align="left">🌱 I’m currently learning:</h3>
+
+<p align="center">
   <picture>
     <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=flat&logo=React&logoColor=black" /> -->
     <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=plastic&logo=React&logoColor=black" /> -->
     <img src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React" title="React Native" />
   </picture>
-</h3>
+</p>
 
-<h3 align="left">🛠️ I'm currently working on: 
+<h3 align="left">🛠️ I'm currently working on:</h3>
+
+<p align="center">
   <a href="https://github.com/esteban-vm/my-portfolio">
     <picture>
       <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139" /> -->
       <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139" /> -->
-      <img src="https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" title="Portfolio" />
+      <img src="https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="My Portfolio" title="My Portfolio" />
     </picture>
   </a>
-</h3>
+</p>
 
 <h3 align="left">💬 Ask me about:</h3>
 
