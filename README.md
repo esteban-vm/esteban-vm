@@ -411,6 +411,13 @@
       <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" alt="Context API" title="Context API" />
     </picture>
   <!-- </a> -->
+  <!-- <a href="https://www.prisma.io/"> -->
+    <picture>
+      <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=Prisma&logoColor=white" /> -->
+      <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=Prisma&logoColor=white" /> -->
+      <img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" title="Prisma" />
+    </picture>
+  <!-- </a> -->
   <!-- <a href="https://redux.js.org/"> -->
     <picture>
       <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Redux-764ABC.svg?style=flat&logo=Redux&logoColor=white" /> -->
