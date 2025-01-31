@@ -4,9 +4,9 @@
 <!-- Subheading -->
 <h2 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Recursive&weight=500&size=30&pause=1000&color=FF428E&background=141321&center=true&vCenter=true&random=false&width=450&height=60&lines=A+Front-End+Developer;from+Paraguay+%F0%9F%87%B5%F0%9F%87%BE" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Recursive&weight=500&size=30&pause=1000&color=657EFF&background=FDF6E3&center=true&vCenter=true&random=false&width=450&height=60&lines=A+Front-End+Developer;from+Paraguay+%F0%9F%87%B5%F0%9F%87%BE" />
-    <img src="https://readme-typing-svg.demolab.com?font=Recursive&weight=500&size=30&pause=1000&color=FF428E&background=141321&center=true&vCenter=true&random=false&width=450&height=60&lines=A+Front-End+Developer;from+Paraguay+%F0%9F%87%B5%F0%9F%87%BE" alt="Typing SVG" title="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Recursive&weight=500&size=30&pause=1000&color=FF428E&background=141321&center=true&vCenter=true&random=false&width=450&height=60&lines=Front-End+Developer;from+Paraguay+%F0%9F%87%B5%F0%9F%87%BE" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Recursive&weight=500&size=30&pause=1000&color=657EFF&background=FDF6E3&center=true&vCenter=true&random=false&width=450&height=60&lines=Front-End+Developer;from+Paraguay+%F0%9F%87%B5%F0%9F%87%BE" />
+    <img src="https://readme-typing-svg.demolab.com?font=Recursive&weight=500&size=30&pause=1000&color=FF428E&background=141321&center=true&vCenter=true&random=false&width=450&height=60&lines=Front-End+Developer;from+Paraguay+%F0%9F%87%B5%F0%9F%87%BE" alt="Typing SVG" title="Typing SVG" />
   </picture>
 </h2>
 
