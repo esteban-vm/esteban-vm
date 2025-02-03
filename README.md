@@ -175,8 +175,8 @@
   </a>
 </p>
 
-<h3>
-  <details>
+<!-- <h3> -->
+  <details open>
     <summary>🌱 I’m currently learning:</summary>
     <br/>
     <p align="center">
@@ -187,9 +187,9 @@
       </picture>
     </p>
   </details>
-</h3>
+<!-- </h3> -->
 
-<h3>
+<!-- <h3> -->
   <details open>
     <summary>🛠️ I'm currently working on:</summary>
     <br/>
@@ -203,9 +203,9 @@
       </a>
     </p>
   </details>
-</h3>
+<!-- </h3> -->
 
-<h3>
+<!-- <h3> -->
   <details>
     <summary>💬 Ask me about:</summary>
     <br/>
@@ -254,9 +254,9 @@
       <!-- </a> -->
     </p>
   </details>
-</h3>
+<!-- </h3> -->
 
-<h3>
+<!-- <h3> -->
   <details>
     <summary>📫 Connect with me:</summary>
     <br/>
@@ -336,9 +336,9 @@
       </a> -->
     </ul>
   </details>
-</h3>
+<!-- </h3> -->
 
-<h3>
+<!-- <h3> -->
   <details>
     <summary>💻 Languages I've learnt:</summary>
     <br/>
@@ -394,9 +394,9 @@
       <!-- </a> -->
     </p>
   </details>
-</h3>
+<!-- </h3> -->
 
-<h3>
+<!-- <h3> -->
   <details>
     <summary>
       🧰 Tools/Frameworks I've worked with:
@@ -643,9 +643,9 @@
       </a> -->
     </p>
   </details>
-</h3>
+<!-- </h3> -->
 
-<h3>
+<!-- <h3> -->
   <details>
     <summary>
       🎓 Learning resources:
@@ -717,7 +717,7 @@
       </a>
     </p>
   </details>
-</h3>
+<!-- </h3> -->
 
 <!-- - 🌐 In:
 
