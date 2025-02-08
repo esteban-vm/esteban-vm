@@ -75,7 +75,9 @@
 
 <!-- Pins -->
 <details>
-  <summary>🏷️ Featured projects:</summary>
+  <summary>
+    <strong>🏷️ Featured projects:</strong>
+  </summary>
   <br/>
   <p align="center">
     <a href="https://github.com/esteban-vm/space-invaders-game">
@@ -180,7 +182,9 @@
 </details>
 
 <details>
-  <summary>🌱 I’m currently learning:</summary>
+  <summary>
+    <strong>🌱 I’m currently learning:</strong>
+  </summary>
   <br/>
   <p align="center">
     <picture>
@@ -192,7 +196,9 @@
 </details>
 
 <details open>
-  <summary>🛠️ I'm currently working on:</summary>
+  <summary>
+    <strong>🛠️ I'm currently working on:</strong>
+  </summary>
   <br/>
   <p align="center">
     <a href="https://github.com/esteban-vm/my-portfolio">
@@ -206,7 +212,9 @@
 </details>
 
 <details>
-  <summary>💬 Ask me about:</summary>
+  <summary>
+    <strong>💬 Ask me about:</strong>
+  </summary>
   <br/>
   <p align="center">
     <!-- <a href="https://nextjs.org/"> -->
@@ -255,7 +263,9 @@
 </details>
 
 <details>
-  <summary>📫 Connect with me:</summary>
+  <summary>
+    <strong>📫 Connect with me:</strong>
+  </summary>
   <br/>
   <ol>
     <li>
@@ -335,7 +345,9 @@
 </details>
 
 <details open>
-  <summary>💻 Languages I've learnt:</summary>
+  <summary>
+    <strong>💻 Languages I've learnt:</strong>
+  </summary>
   <br/>
   <p align="center">
     <!-- <a href="https://www.w3.org/html/"> -->
@@ -392,7 +404,7 @@
 
 <details>
   <summary>
-    🧰 Tools/Frameworks I've worked with:
+    <strong>🧰 Tools/Frameworks I've worked with:</strong>
   </summary>
   <br/>
   <p align="center">
@@ -639,7 +651,7 @@
 
 <details>
   <summary>
-    🎓 Learning resources:
+    <strong>🎓 Learning resources:</strong>
   </summary>
   <br/>
   <p align="center">
