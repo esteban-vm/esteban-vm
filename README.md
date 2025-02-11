@@ -1,3 +1,10 @@
+<!-- Language -->
+<p align="center">
+  <a href="./README-ES.md">
+    <img src="https://img.shields.io/badge/Lang-ES-801172?style=for-the-badge" alt="Cambiar a español" title="Cambiar a español" />
+  </a>
+</p>
+
 <!-- Heading -->
 <h1 align="center">Hi 👋, I'm Esteban</h1>
 
@@ -10,22 +17,22 @@
   </picture>
 </h2>
 
-<!-- Profile views -->
+<!-- Profile Views -->
 <p align="center">
-  <picture>
+  <!-- <picture> -->
     <!-- <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=esteban-vm&label=Profile%20views&color=blueviolet&style=flat" /> -->
     <!-- <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=esteban-vm&label=Profile%20views&color=brightgreen&style=plastic" /> -->
     <img src="https://komarev.com/ghpvc/?username=esteban-vm&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" title="Profile Views" />
-  </picture>
+  <!-- </picture> -->
 </p>
 
 <!-- WakaTime -->
 <p align="center">
-  <picture>
+  <!-- <picture> -->
     <!-- <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/badge/user/018c4b00-8d62-466f-9074-3b14bf48ce82.svg?style=flat" /> -->
     <!-- <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/badge/user/018c4b00-8d62-466f-9074-3b14bf48ce82.svg?style=plastic" /> -->
     <img src="https://wakatime.com/badge/user/018c4b00-8d62-466f-9074-3b14bf48ce82.svg?style=for-the-badge" alt="Total time coded since Dec 8 2023" title="Total time coded since Dec 8 2023" />
-  </picture>
+  <!-- </picture> -->
 </p>
 
 <!-- Most Used Languages -->
@@ -187,11 +194,11 @@
   </summary>
   <br/>
   <p align="center">
-    <picture>
+    <!-- <picture> -->
       <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=flat&logo=React&logoColor=black" /> -->
       <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=plastic&logo=React&logoColor=black" /> -->
       <img src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React" title="React Native" />
-    </picture>
+    <!-- </picture> -->
   </p>
 </details>
 
@@ -202,11 +209,11 @@
   <br/>
   <p align="center">
     <a href="https://github.com/esteban-vm/my-portfolio">
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139" /> -->
         <img src="https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="My Portfolio" title="My Portfolio" />
-      </picture>
+      <!-- </picture> -->
     </a>
   </p>
 </details>
@@ -218,46 +225,46 @@
   <br/>
   <p align="center">
     <!-- <a href="https://nextjs.org/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=nextdotjs&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Next.js-000000.svg?style=plastic&logo=nextdotjs&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" title="Next.js" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://reactjs.org/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React-61DAFB.svg?style=plastic&logo=React&logoColor=black" /> -->
         <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React" title="React" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=plastic&logo=JavaScript&logoColor=black" /> -->
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" title="JavaScript" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://www.typescriptlang.org/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=TypeScript&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TypeScript-3178C6.svg?style=plastic&logo=TypeScript&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript" title="TypeScript" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://flutter.dev/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Flutter-02569B.svg?style=flat&logo=Flutter&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Flutter-02569B.svg?style=plastic&logo=Flutter&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" title="Flutter" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://tailwindcss.com/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=flat&logo=Tailwind-CSS&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=plastic&logo=Tailwind-CSS&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind CSS" title="Tailwind CSS" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
   </p>
 </details>
@@ -270,47 +277,47 @@
   <ol>
     <li>
       <a href="https://www.linkedin.com/in/webdev-esteban/">
-        <picture>
+        <!-- <picture> -->
           <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=LinkedIn&logoColor=white" /> -->
           <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=LinkedIn&logoColor=white" /> -->
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" title="LinkedIn" />
-        </picture>
+        <!-- </picture> -->
       </a>
     </li>      
     <li>
       <a href="mailto:estebanvm90@outlook.com?Subject=Contact%me">
-        <picture>
+        <!-- <picture> -->
           <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Outlook-0078D4.svg?style=flat&logo=Microsoft-Outlook&logoColor=white" /> -->
           <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Outlook-0078D4.svg?style=plastic&logo=Microsoft-Outlook&logoColor=white" /> -->
           <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Outlook" title="Outlook" />
-        </picture>
+        <!-- </picture> -->
       </a>
     </li>
     <li>
       <a href="mailto:estebanvm1990@gmail.com?Subject=Contact%me">
-        <picture>
+        <!-- <picture> -->
           <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=Gmail&logoColor=white" /> -->
           <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Gmail-EA4335.svg?style=plastic&logo=Gmail&logoColor=white" /> -->
           <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" title="Gmail" />
-        </picture>
+        <!-- </picture> -->
       </a>
     </li>
     <li>
       <a href="https://wa.link/q3hsgu">
-        <picture>
+        <!-- <picture> -->
           <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/WhatsApp-25D366.svg?style=flat&logo=WhatsApp&logoColor=white" /> -->
           <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/WhatsApp-25D366.svg?style=plastic&logo=WhatsApp&logoColor=white" /> -->
           <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" title="WhatsApp" />
-        </picture>
+        <!-- </picture> -->
       </a>
     </li>
     <li>
       <a href="https://t.me/VM_Esteban">
-        <picture>
+        <!-- <picture> -->
           <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Telegram-26A5E4.svg?style=flat&logo=Telegram&logoColor=white" /> -->
           <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Telegram-26A5E4.svg?style=plastic&logo=Telegram&logoColor=white" /> -->
           <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" title="Telegram" />
-        </picture>
+        <!-- </picture> -->
       </a>
     </li>
     <!-- <a href="https://codepen.io/esteban-vera/"> -->
@@ -351,39 +358,39 @@
   <br/>
   <p align="center">
     <!-- <a href="https://www.w3.org/html/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HTML5-E34F26.svg?style=plastic&logo=HTML5&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" title="HTML5" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://www.w3schools.com/css/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=CSS3&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS3-1572B6.svg?style=plastic&logo=CSS3&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3" title="CSS3" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=plastic&logo=JavaScript&logoColor=black" /> -->
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" title="JavaScript" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://www.typescriptlang.org/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=TypeScript&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TypeScript-3178C6.svg?style=plastic&logo=TypeScript&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript" title="TypeScript" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://nodejs.org/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Node.js-339933.svg?style=plastic&logo=nodedotjs&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" title="Node.js" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://sass-lang.com/">
       <picture>
@@ -393,11 +400,11 @@
       </picture>
     </a> -->
     <!-- <a href="https://dart.dev/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Dart-0175C2.svg?style=flat&logo=Dart&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Dart-0175C2.svg?style=plastic&logo=Dart&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" alt="Dart" title="Dart" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
   </p>
 </details>
@@ -409,88 +416,88 @@
   <br/>
   <p align="center">
     <!-- <a href="https://nextjs.org/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=nextdotjs&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Next.js-000000.svg?style=plastic&logo=nextdotjs&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" title="Next.js" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://reactjs.org/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React-61DAFB.svg?style=plastic&logo=React&logoColor=black" /> -->
         <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React" title="React" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://reactrouter.com/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React%20Router-CA4245.svg?style=flat&logo=React-Router&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React%20Router-CA4245.svg?style=plastic&logo=React-Router&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white" alt="React Router" title="React Router" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://react-hook-form.com/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=flat&logo=React-Hook-Form&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=plastic&logo=React-Hook-Form&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=for-the-badge&logo=React-Hook-Form&logoColor=white" alt="React Hook Form" title="React Hook Form" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://tanstack.com/query/v3"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React%20Query-FF4154.svg?style=flat&logo=React-Query&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React%20Query-FF4154.svg?style=plastic&logo=React-Query&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white" alt="React Query" title="React Query" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://legacy.reactjs.org/docs/context.html"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react" /> -->
         <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" alt="Context API" title="Context API" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://www.prisma.io/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=Prisma&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=Prisma&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" title="Prisma" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://redux.js.org/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Redux-764ABC.svg?style=flat&logo=Redux&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Redux-764ABC.svg?style=plastic&logo=Redux&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux" title="Redux" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://threejs.org/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Three.js-000000.svg?style=flat&logo=threedotjs&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Three.js-000000.svg?style=plastic&logo=threedotjs&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" title="Three.js" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://firebase.google.com/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat&logo=Firebase&logoColor=black" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Firebase-FFCA28.svg?style=plastic&logo=Firebase&logoColor=black" /> -->
         <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase" title="Firebase" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://flutter.dev/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Flutter-02569B.svg?style=flat&logo=Flutter&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Flutter-02569B.svg?style=plastic&logo=Flutter&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" title="Flutter" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://git-scm.com/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git-F05032.svg?style=plastic&logo=Git&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git" title="Git" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://www.docker.com/">
       <picture>
@@ -500,123 +507,123 @@
       </picture>
     </a> -->
     <!-- <a href="https://storybook.js.org/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Storybook-FF4785.svg?style=flat&logo=Storybook&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Storybook-FF4785.svg?style=plastic&logo=Storybook&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Storybook-FF4785.svg?style=for-the-badge&logo=Storybook&logoColor=white" alt="Storybook" title="Storybook" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://www.chromatic.com/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Chromatic-FC521F.svg?style=flat&logo=Chromatic&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Chromatic-FC521F.svg?style=plastic&logo=Chromatic&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Chromatic-FC521F.svg?style=for-the-badge&logo=Chromatic&logoColor=white" alt="Chromatic" title="Chromatic" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://eslint.org/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ESLint-4B32C3.svg?style=flat&logo=ESLint&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/ESLint-4B32C3.svg?style=plastic&logo=ESLint&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white" alt="ESLint" title="ESLint" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://prettier.io/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Prettier-F7B93E.svg?style=flat&logo=Prettier&logoColor=black" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Prettier-F7B93E.svg?style=plastic&logo=Prettier&logoColor=black" /> -->
         <img src="https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&logo=Prettier&logoColor=black" alt="Prettier" title="Prettier" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://phaser.io/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Phaser-E60012.svg?style=flat&logo=Game-Developer&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Phaser-E60012.svg?style=plastic&logo=Game-Developer&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Phaser-E60012.svg?style=for-the-badge&logo=Game-Developer&logoColor=white" alt="Phaser" title="Phaser" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://v2.vitejs.dev/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=Vite&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Vite-646CFF.svg?style=plastic&logo=Vite&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" alt="Vite" title="Vite" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PWA-5A0FC8.svg?style=flat&logo=PWA&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PWA-5A0FC8.svg?style=plastic&logo=PWA&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/PWA-5A0FC8.svg?style=for-the-badge&logo=PWA&logoColor=white" alt="Progressive Wep App" title="Progressive Wep App" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://www.w3schools.com/html/html5_canvas.asp"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Canvas-E72429.svg?style=flat&logo=Canvas&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Canvas-E72429.svg?style=plastic&logo=Canvas&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Canvas-E72429.svg?style=for-the-badge&logo=Canvas&logoColor=white" alt="HTML Canvas" title="HTML Canvas" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://jestjs.io/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Jest-C21325.svg?style=flat&logo=Jest&logoColor=black" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Jest-C21325.svg?style=plastic&logo=Jest&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest" title="Jest" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://testing-library.com/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Testing%20Library-E33332.svg?style=flat&logo=Testing-Library&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Testing%20Library-E33332.svg?style=plastic&logo=Testing-Library&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Testing%20Library-E33332.svg?style=for-the-badge&logo=Testing-Library&logoColor=white" alt="Testing Library" title="Testing Library" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://vitest.dev/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vitest-6E9F18.svg?style=flat&logo=Vitest&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Vitest-6E9F18.svg?style=plastic&logo=Vitest&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=Vitest&logoColor=white" alt="Vitest" title="Vitest" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://playwright.dev/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Playwright-2EAD33.svg?style=flat&logo=Playwright&logoColor=black" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Playwright-2EAD33.svg?style=plastic&logo=Playwright&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Playwright-2EAD33.svg?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright" title="Playwright" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://tailwindcss.com/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=flat&logo=Tailwind-CSS&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=plastic&logo=Tailwind-CSS&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind CSS" title="Tailwind CSS" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://emotion.sh/docs/styled"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/styled%20components-DB7093.svg?style=flat&logo=styled-components&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/styled%20components-DB7093.svg?style=plastic&logo=styled-components&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/styled%20components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" title="Styled Components" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://pnpm.io/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/pnpm-F69220.svg?style=flat&logo=pnpm&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/pnpm-F69220.svg?style=plastic&logo=pnpm&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white" alt="PNPM" title="PNPM" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://vercel.com/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vercel-000000.svg?style=flat&logo=Vercel&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Vercel-000000.svg?style=plastic&logo=Vercel&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Vercel" title="Vercel" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://github.com/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-181717.svg?style=plastic&logo=GitHub&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" title="GitHub" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://github.com/features/actions">
       <picture>
@@ -626,11 +633,11 @@
       </picture>
     </a> -->
     <!-- <a href="https://code.visualstudio.com/"> -->
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=plastic&logo=Visual-Studio-Code&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="Visual Studio Code" title="Visual Studio Code" />
-      </picture>
+      <!-- </picture> -->
     <!-- </a> -->
     <!-- <a href="https://www.microsoft.com/es-es/edge">
       <picture>
@@ -656,72 +663,67 @@
   <br/>
   <p align="center">
     <a href="https://www.freecodecamp.org/">
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=flat&logo=freeCodeCamp&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=plastic&logo=freeCodeCamp&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="FreeCodeCamp" title="FreeCodeCamp" />
-      </picture>
+      <!-- </picture> -->
     </a>
     <a href="https://www.udemy.com/">
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Udemy-A435F0.svg?style=flat&logo=Udemy&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Udemy-A435F0.svg?style=plastic&logo=Udemy&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" title="Udemy" />
-      </picture>
+      <!-- </picture> -->
     </a>
     <a href="https://www.linkedin.com/learning">
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2.svg?style=flat&logo=LinkedIn&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2.svg?style=plastic&logo=LinkedIn&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Learning" title="LinkedIn Learning" />
-      </picture>
+      <!-- </picture> -->
     </a>
     <a href="https://www.sololearn.com/">
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Sololearn-149EF2.svg?style=flat&logo=Sololearn&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Sololearn-149EF2.svg?style=plastic&logo=Sololearn&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Sololearn-149EF2.svg?style=for-the-badge&logo=Sololearn&logoColor=white" alt="SoloLearn" title="SoloLearn" />
-      </picture>
+      <!-- </picture> -->
     </a>
     <a href="https://en.duolingo.com/">
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Duolingo-58CC02.svg?style=flat&logo=Duolingo&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Duolingo-58CC02.svg?style=plastic&logo=Duolingo&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/Duolingo-58CC02.svg?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo" title="Duolingo" />
-      </picture>
+      <!-- </picture> -->
     </a>
     <a href="https://www.w3schools.com/">
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/W3Schools-04AA6D.svg?style=flat&logo=W3Schools&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/W3Schools-04AA6D.svg?style=plastic&logo=W3Schools&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/W3Schools-04AA6D.svg?style=for-the-badge&logo=W3Schools&logoColor=white" alt="W3Schools" title="W3Schools" />
-      </picture>
+      <!-- </picture> -->
     </a>
     <a href="https://developer.mozilla.org/en-US/">
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MDN%20Web%20Docs-000000.svg?style=flat&logo=MDN-Web-Docs&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MDN%20Web%20Docs-000000.svg?style=plastic&logo=MDN-Web-Docs&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/MDN%20Web%20Docs-000000.svg?style=for-the-badge&logo=MDN-Web-Docs&logoColor=white" alt="Mozilla Developer Network" title="Mozilla Developer Network" />
-      </picture>
+      <!-- </picture> -->
     </a>
     <a href="https://ankiweb.net/">
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Anki-80C2EE.svg?style=flat&logo=Anki&logoColor=black" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Anki-80C2EE.svg?style=plastic&logo=Anki&logoColor=black" /> -->
         <img src="https://img.shields.io/badge/Anki-80C2EE.svg?style=for-the-badge&logo=Anki&logoColor=black" alt="AnkiWeb" title="AnkiWeb" />
-      </picture>
+      <!-- </picture> -->
     </a>
     <a href="https://www.theodinproject.com/">
-      <picture>
+      <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/The%20Odin%20Project-A9792B.svg?style=flat&logo=The-Odin-Project&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/The%20Odin%20Project-A9792B.svg?style=plastic&logo=The-Odin-Project&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/The%20Odin%20Project-A9792B.svg?style=for-the-badge&logo=The-Odin-Project&logoColor=white" alt="The Odin Project" title="The Odin Project" />
-      </picture>
+      <!-- </picture> -->
     </a>
   </p>
 </details>
-
-<!-- - 🌐 In:
-
-  - <img src="https://img.shields.io/badge/Lang-EN-40B0C2?style=flat-square" alt="English" title="English" />
-  - <img src="https://img.shields.io/badge/Lang-ES-801172?style=flat-square" alt="Spanish" title="Spanish" /> -->
