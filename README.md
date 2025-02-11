@@ -1,9 +1,9 @@
 <!-- Language -->
-<!-- <p align="center">
+<p align="center">
   <a href="./README-ES.md">
     <img src="https://img.shields.io/badge/Lang-ES-801172?style=for-the-badge" alt="Cambiar a español" title="Cambiar a español" />
   </a>
-</p> -->
+</p>
 
 <!-- Heading -->
 <h1 align="center">Hi 👋, I'm Esteban</h1>
