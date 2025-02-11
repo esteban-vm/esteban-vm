@@ -190,7 +190,9 @@
   </summary>
   <br/>
   <p align="center">
-    <img src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React" title="React Native" />
+    <picture>
+      <img src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React" title="React Native" />
+    </picture>
   </p>
 </details>
 
@@ -212,12 +214,24 @@
   </summary>
   <br/>
   <p align="center">    
-    <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" title="Next.js" />        
-    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React" title="React" />        
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" title="JavaScript" />        
-    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript" title="TypeScript" />        
-    <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" title="Flutter" />        
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind CSS" title="Tailwind CSS" />    
+    <picture>
+      <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" title="Next.js" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React" title="React" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" title="JavaScript" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript" title="TypeScript" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" title="Flutter" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind CSS" title="Tailwind CSS" />
+    </picture>
   </p>
 </details>
 
@@ -235,7 +249,7 @@
     <li>
       <a href="mailto:estebanvm90@outlook.com?Subject=Contact%me">        
         <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Outlook" title="Outlook" />
-    </a>
+      </a>
     </li>
     <li>
       <a href="mailto:estebanvm1990@gmail.com?Subject=Contact%me">        
@@ -261,12 +275,24 @@
   </summary>
   <br/>
   <p align="center">      
-    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" title="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3" title="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" title="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript" title="TypeScript" />
-    <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" title="Node.js" />
-    <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" alt="Dart" title="Dart" />
+    <picture>
+      <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" title="HTML5" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3" title="CSS3" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" title="JavaScript" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript" title="TypeScript" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" title="Node.js" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" alt="Dart" title="Dart" />
+    </picture>
   </p>
 </details>
 
@@ -276,36 +302,96 @@
   </summary>
   <br/>
   <p align="center">
-    <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" title="Next.js" />
-    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React" title="React" />
-    <img src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white" alt="React Router" title="React Router" />
-    <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=for-the-badge&logo=React-Hook-Form&logoColor=white" alt="React Hook Form" title="React Hook Form" />
-    <img src="https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white" alt="React Query" title="React Query" />
-    <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" alt="Context API" title="Context API" />
-    <img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" title="Prisma" />
-    <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux" title="Redux" />
-    <img src="https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" title="Three.js" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase" title="Firebase" />
-    <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" title="Flutter" />
-    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git" title="Git" />
-    <img src="https://img.shields.io/badge/Storybook-FF4785.svg?style=for-the-badge&logo=Storybook&logoColor=white" alt="Storybook" title="Storybook" />
-    <img src="https://img.shields.io/badge/Chromatic-FC521F.svg?style=for-the-badge&logo=Chromatic&logoColor=white" alt="Chromatic" title="Chromatic" />
-    <img src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white" alt="ESLint" title="ESLint" />
-    <img src="https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&logo=Prettier&logoColor=black" alt="Prettier" title="Prettier" />
-    <img src="https://img.shields.io/badge/Phaser-E60012.svg?style=for-the-badge&logo=Game-Developer&logoColor=white" alt="Phaser" title="Phaser" />
-    <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" alt="Vite" title="Vite" />
-    <img src="https://img.shields.io/badge/PWA-5A0FC8.svg?style=for-the-badge&logo=PWA&logoColor=white" alt="Progressive Wep App" title="Progressive Wep App" />
-    <img src="https://img.shields.io/badge/Canvas-E72429.svg?style=for-the-badge&logo=Canvas&logoColor=white" alt="HTML Canvas" title="HTML Canvas" />
-    <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest" title="Jest" />
-    <img src="https://img.shields.io/badge/Testing%20Library-E33332.svg?style=for-the-badge&logo=Testing-Library&logoColor=white" alt="Testing Library" title="Testing Library" />
-    <img src="https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=Vitest&logoColor=white" alt="Vitest" title="Vitest" />
-    <img src="https://img.shields.io/badge/Playwright-2EAD33.svg?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright" title="Playwright" />
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind CSS" title="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/styled%20components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" title="Styled Components" />
-    <img src="https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white" alt="PNPM" title="PNPM" />
-    <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Vercel" title="Vercel" />
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" title="GitHub" />
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="Visual Studio Code" title="Visual Studio Code" />
+    <picture>
+      <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" title="Next.js" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React" title="React" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white" alt="React Router" title="React Router" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=for-the-badge&logo=React-Hook-Form&logoColor=white" alt="React Hook Form" title="React Hook Form" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white" alt="React Query" title="React Query" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" alt="Context API" title="Context API" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" title="Prisma" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux" title="Redux" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" title="Three.js" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase" title="Firebase" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" title="Flutter" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git" title="Git" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Storybook-FF4785.svg?style=for-the-badge&logo=Storybook&logoColor=white" alt="Storybook" title="Storybook" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Chromatic-FC521F.svg?style=for-the-badge&logo=Chromatic&logoColor=white" alt="Chromatic" title="Chromatic" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white" alt="ESLint" title="ESLint" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&logo=Prettier&logoColor=black" alt="Prettier" title="Prettier" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Phaser-E60012.svg?style=for-the-badge&logo=Game-Developer&logoColor=white" alt="Phaser" title="Phaser" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" alt="Vite" title="Vite" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/PWA-5A0FC8.svg?style=for-the-badge&logo=PWA&logoColor=white" alt="Progressive Wep App" title="Progressive Wep App" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Canvas-E72429.svg?style=for-the-badge&logo=Canvas&logoColor=white" alt="HTML Canvas" title="HTML Canvas" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest" title="Jest" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Testing%20Library-E33332.svg?style=for-the-badge&logo=Testing-Library&logoColor=white" alt="Testing Library" title="Testing Library" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=Vitest&logoColor=white" alt="Vitest" title="Vitest" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Playwright-2EAD33.svg?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright" title="Playwright" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind CSS" title="Tailwind CSS" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/styled%20components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" title="Styled Components" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white" alt="PNPM" title="PNPM" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Vercel" title="Vercel" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" title="GitHub" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="Visual Studio Code" title="Visual Studio Code" />
+    </picture>
   </p>
 </details>
 
