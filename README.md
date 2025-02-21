@@ -81,7 +81,7 @@
 </p>
 
 <!-- Pins -->
-<details>
+<details name="readme-content">
   <summary>
     <strong>🏷️ Featured projects:</strong>
   </summary>
@@ -188,7 +188,7 @@
   </p>
 </details>
 
-<details>
+<details name="readme-content">
   <summary>
     <strong>🌱 I’m currently learning:</strong>
   </summary>
@@ -202,7 +202,7 @@
   </p>
 </details>
 
-<details open>
+<details name="readme-content" open>
   <summary>
     <strong>🛠️ I'm currently working on:</strong>
   </summary>
@@ -218,7 +218,7 @@
   </p>
 </details>
 
-<details>
+<details name="readme-content">
   <summary>
     <strong>💬 Ask me about:</strong>
   </summary>
@@ -269,7 +269,7 @@
   </p>
 </details>
 
-<details>
+<details name="readme-content">
   <summary>
     <strong>📫 Connect with me:</strong>
   </summary>
@@ -351,7 +351,7 @@
   </ol>
 </details>
 
-<details open>
+<details name="readme-content">
   <summary>
     <strong>💻 Languages I've learnt:</strong>
   </summary>
@@ -409,7 +409,7 @@
   </p>
 </details>
 
-<details>
+<details name="readme-content">
   <summary>
     <strong>🧰 Tools/Frameworks I've worked with:</strong>
   </summary>
@@ -656,7 +656,7 @@
   </p>
 </details>
 
-<details>
+<details name="readme-content">
   <summary>
     <strong>🎓 Learning resources:</strong>
   </summary>
