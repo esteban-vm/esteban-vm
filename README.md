@@ -81,9 +81,11 @@
 </p>
 
 <!-- Pins -->
-<details name="readme-content">
+<details name="hidden-content">
   <summary>
-    <strong>🏷️ Featured projects:</strong>
+    <strong>
+      <em>🏷️ Featured projects:</em>
+    </strong>
   </summary>
   <br/>
   <p align="center">
@@ -188,9 +190,11 @@
   </p>
 </details>
 
-<details name="readme-content">
+<details name="hidden-content">
   <summary>
-    <strong>🌱 I’m currently learning:</strong>
+    <strong>
+      <em>🌱 I’m currently learning:</em>
+    </strong>
   </summary>
   <br/>
   <p align="center">
@@ -202,9 +206,11 @@
   </p>
 </details>
 
-<details name="readme-content" open>
+<details name="hidden-content" open>
   <summary>
-    <strong>🛠️ I'm currently working on:</strong>
+    <strong>
+      <em>🛠️ I'm currently working on:</em>
+    </strong>
   </summary>
   <br/>
   <p align="center">
@@ -218,9 +224,11 @@
   </p>
 </details>
 
-<details name="readme-content">
+<details name="hidden-content">
   <summary>
-    <strong>💬 Ask me about:</strong>
+    <strong>
+      <em>💬 Ask me about:</em>
+    </strong>
   </summary>
   <br/>
   <p align="center">
@@ -269,9 +277,11 @@
   </p>
 </details>
 
-<details name="readme-content">
+<details name="hidden-content">
   <summary>
-    <strong>📫 Connect with me:</strong>
+    <strong>
+      <em>📫 Connect with me:</em>
+    </strong>
   </summary>
   <br/>
   <ol>
@@ -351,9 +361,11 @@
   </ol>
 </details>
 
-<details name="readme-content">
+<details name="hidden-content">
   <summary>
-    <strong>💻 Languages I've learnt:</strong>
+    <strong>
+      <em>💻 Languages I've learnt:</em>
+    </strong>
   </summary>
   <br/>
   <p align="center">
@@ -409,9 +421,11 @@
   </p>
 </details>
 
-<details name="readme-content">
+<details name="hidden-content">
   <summary>
-    <strong>🧰 Tools/Frameworks I've worked with:</strong>
+    <strong>
+      <em>🧰 Tools/Frameworks I've worked with:</em>
+    </strong>
   </summary>
   <br/>
   <p align="center">
@@ -656,9 +670,11 @@
   </p>
 </details>
 
-<details name="readme-content">
+<details name="hidden-content">
   <summary>
-    <strong>🎓 Learning resources:</strong>
+    <strong>
+      <em>🎓 Learning resources:</em>
+    </strong>
   </summary>
   <br/>
   <p align="center">
