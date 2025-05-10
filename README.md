@@ -89,6 +89,13 @@
   </summary>
   <br/>
   <p align="center">
+    <a href="https://github.com/esteban-vm/nextflix">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=nextflix&theme=radical&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=nextflix&theme=solarized-light" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=nextflix&theme=radical&hide_border=true" alt="Nextflix - Netflix Clone" title="Nextflix - Netflix Clone" />
+      </picture>
+    </a>
     <a href="https://github.com/esteban-vm/space-invaders-game">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=space-invaders-game&theme=radical&hide_border=true" />
