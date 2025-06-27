@@ -320,15 +320,6 @@
       </a>
     </li>
     <li>
-      <a href="https://wa.link/q3hsgu">
-        <picture>
-          <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/WhatsApp-25D366.svg?style=flat&logo=WhatsApp&logoColor=white" /> -->
-          <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/WhatsApp-25D366.svg?style=plastic&logo=WhatsApp&logoColor=white" /> -->
-          <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" title="WhatsApp" />
-        </picture>
-      </a>
-    </li>
-    <li>
       <a href="https://t.me/VM_Esteban">
         <picture>
           <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Telegram-26A5E4.svg?style=flat&logo=Telegram&logoColor=white" /> -->
@@ -411,6 +402,11 @@
         <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" title="Node.js" />
       </picture>
     <!-- </a> -->
+    <picture>
+        <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" /> -->
+        <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" /> -->
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" title="Java" />
+    </picture>
     <!-- <a href="https://sass-lang.com/">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Sass-CC6699.svg?style=flat&logo=Sass&logoColor=white" />
@@ -506,6 +502,11 @@
         <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase" title="Firebase" />
       </picture>
     <!-- </a> -->
+      <picture>
+        <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" /> -->
+        <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white" /> -->
+        <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" title="Spring" />
+      </picture>
     <!-- <a href="https://flutter.dev/"> -->
       <picture>
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Flutter-02569B.svg?style=flat&logo=Flutter&logoColor=white" /> -->

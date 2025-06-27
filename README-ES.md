@@ -257,11 +257,6 @@
       </a>
     </li>
     <li>
-      <a href="https://wa.link/q3hsgu">        
-        <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" title="WhatsApp" />
-      </a>
-    </li>
-    <li>
       <a href="https://t.me/VM_Esteban">        
         <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" title="Telegram" />
       </a>
@@ -269,7 +264,7 @@
   </ol>
 </details>
 
-<details open>
+<details>
   <summary>
     <strong>💻 Lenguajes que he aprendido:</strong>
   </summary>
@@ -289,6 +284,9 @@
     </picture>
     <picture>
       <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" title="Node.js" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" title="Java" />
     </picture>
     <picture>
       <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" alt="Dart" title="Dart" />
@@ -333,6 +331,9 @@
       <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase" title="Firebase" />
     </picture>
     <picture>
+    <picture>
+      <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" title="Spring" />
+    </picture>
       <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" title="Flutter" />
     </picture>
     <picture>
