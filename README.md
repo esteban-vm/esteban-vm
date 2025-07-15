@@ -645,8 +645,18 @@
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white" /> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-181717.svg?style=plastic&logo=GitHub&logoColor=white" /> -->
         <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" title="GitHub" />
-      </picture>
+      </picture>     
     <!-- </a> -->
+     <picture>
+        <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Trello-0052CC.svg?style=flat&logo=Trello&logoColor=white" /> -->
+        <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Trello-0052CC.svg?style=plastic&logo=Trello&logoColor=white" /> -->
+        <img src="https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" title="Trello" />
+      </picture>
+      <picture>
+        <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=Discord&logoColor=white" /> -->
+        <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Discord-5865F2.svg?style=plastic&logo=Discord&logoColor=white" /> -->
+        <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord" title="Discord" />
+      </picture>
     <!-- <a href="https://github.com/features/actions">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=flat&logo=GitHub-Actions&logoColor=white" />

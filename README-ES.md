@@ -391,6 +391,12 @@
       <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" title="GitHub" />
     </picture>
     <picture>
+      <img src="https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" title="Trello" />
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord" title="Discord" />
+    </picture>
+    <picture>
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="Visual Studio Code" title="Visual Studio Code" />
     </picture>
   </p>
