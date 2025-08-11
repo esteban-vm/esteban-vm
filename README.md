@@ -194,6 +194,27 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=snap-tiles&theme=radical&hide_border=true" alt="Snap Tiles" title="Snap Tiles" />
       </picture>
     </a>
+    <a href="https://github.com/esteban-vm/challenge-conversor-de-monedas">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=challenge-conversor-de-monedas&theme=radical&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=challenge-conversor-de-monedas&theme=solarized-light" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=challenge-conversor-de-monedas&theme=radical&hide_border=true" alt="Challenge Conversor de Monedas" title="Challenge Conversor de Monedas" />
+      </picture>
+    </a>
+    <a href="https://github.com/esteban-vm/challenge-literalura">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=challenge-literalura&theme=radical&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=challenge-literalura&theme=solarized-light" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=challenge-literalura&theme=radical&hide_border=true" alt="Challenge Literalura" title="Challenge Literalura" />
+      </picture>
+    </a>
+     <a href="https://github.com/esteban-vm/challenge-foro-hub">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=challenge-foro-hub&theme=radical&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=challenge-foro-hub&theme=solarized-light" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=challenge-foro-hub&theme=radical&hide_border=true" alt="Challenge Foro Hub" title="Challenge Foro Hub" />
+      </picture>
+    </a>
   </p>
 </details>
 
