@@ -83,6 +83,20 @@
   </summary>
   <br/>
   <p align="center">
+    <a href="https://github.com/esteban-vm/nextflix">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=nextflix&theme=radical&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=nextflix&theme=solarized-light" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=nextflix&theme=radical&hide_border=true" alt="Nextflix - Netflix Clone" title="Nextflix - Netflix Clone" />
+      </picture>
+    </a>
+    <a href="https://github.com/esteban-vm/instagram-clone-v2">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=instagram-clone-v2&theme=radical&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=instagram-clone-v2&theme=solarized-light" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=instagram-clone-v2&theme=radical&hide_border=true" alt="Instagram Clone" title="Instagram Clone" />
+      </picture>
+    </a>
     <a href="https://github.com/esteban-vm/space-invaders-game">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=space-invaders-game&theme=radical&hide_border=true" />
@@ -179,6 +193,34 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=snap-tiles&theme=radical&hide_border=true" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=snap-tiles&theme=solarized-light" />
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=snap-tiles&theme=radical&hide_border=true" alt="Snap Tiles" title="Snap Tiles" />
+      </picture>
+    </a>
+    <a href="https://github.com/esteban-vm/voll-api-rest">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=voll-api-rest&theme=radical&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=voll-api-rest&theme=solarized-light" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=voll-api-rest&theme=radical&hide_border=true" alt="Voll.med API Rest" title="Voll.med API Rest" />
+      </picture>
+    </a>
+    <a href="https://github.com/esteban-vm/challenge-conversor-de-monedas">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=challenge-conversor-de-monedas&theme=radical&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=challenge-conversor-de-monedas&theme=solarized-light" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=challenge-conversor-de-monedas&theme=radical&hide_border=true" alt="Challenge Conversor de Monedas" title="Challenge Conversor de Monedas" />
+      </picture>
+    </a>
+    <a href="https://github.com/esteban-vm/challenge-literalura">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=challenge-literalura&theme=radical&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=challenge-literalura&theme=solarized-light" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=challenge-literalura&theme=radical&hide_border=true" alt="Challenge Literalura" title="Challenge Literalura" />
+      </picture>
+    </a>
+     <a href="https://github.com/esteban-vm/challenge-foro-hub">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=challenge-foro-hub&theme=radical&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=challenge-foro-hub&theme=solarized-light" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=challenge-foro-hub&theme=radical&hide_border=true" alt="Challenge Foro Hub" title="Challenge Foro Hub" />
       </picture>
     </a>
   </p>
