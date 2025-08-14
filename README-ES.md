@@ -441,6 +441,9 @@
     <picture>
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="Visual Studio Code" title="Visual Studio Code" />
     </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+    </picture>
   </p>
 </details>
 

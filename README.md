@@ -720,6 +720,11 @@
         <img src="https://img.shields.io/badge/Google%20Chrome-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Google Chrome" title="Google Chrome" />
       </picture>
     </a> -->
+      <picture>
+        <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=IntelliJ-IDEA&logoColor=white" /> -->
+        <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=plastic&logo=IntelliJ-IDEA&logoColor=white" /> -->
+        <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+      </picture>
   </p>
 </details>
 
