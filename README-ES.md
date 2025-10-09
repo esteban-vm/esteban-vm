@@ -77,7 +77,7 @@
 </p>
 
 <!-- Pins -->
-<details>
+<details name="hidden-content">
   <summary>
     <strong>🏷️ Proyectos destacados:</strong>
   </summary>
@@ -226,7 +226,7 @@
   </p>
 </details>
 
-<details>
+<details name="hidden-content">
   <summary>
     <strong>🌱 Actualmente, estoy aprendiendo:</strong>
   </summary>
@@ -238,7 +238,7 @@
   </p>
 </details>
 
-<details open>
+<details name="hidden-content" open>
   <summary>
     <strong>🛠️ Actualmente, estoy trabajando en:</strong>
   </summary>
@@ -250,7 +250,7 @@
   </p>
 </details>
 
-<details>
+<details name="hidden-content">
   <summary>
     <strong>💬 Pregúntame sobre:</strong>
   </summary>
@@ -277,7 +277,7 @@
   </p>
 </details>
 
-<details>
+<details name="hidden-content">
   <summary>
     <strong>📫 Conecta conmigo:</strong>
   </summary>
@@ -306,7 +306,7 @@
   </ol>
 </details>
 
-<details>
+<details name="hidden-content">
   <summary>
     <strong>💻 Lenguajes que he aprendido:</strong>
   </summary>
@@ -336,7 +336,7 @@
   </p>
 </details>
 
-<details>
+<details name="hidden-content">
   <summary>
     <strong>🧰 Herramientas/Marcos de Trabajo con los que he trabajado:</strong>
   </summary>
@@ -447,7 +447,7 @@
   </p>
 </details>
 
-<details>
+<details name="hidden-content">
   <summary>
     <strong>🎓 Recursos de Aprendizaje:</strong>
   </summary>
