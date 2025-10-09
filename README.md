@@ -103,6 +103,13 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=instagram-clone-v2&theme=radical&hide_border=true" alt="Instagram Clone" title="Instagram Clone" />
       </picture>
     </a>
+    <a href="https://github.com/esteban-vm/youtube-clone">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=youtube-clone&theme=radical&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=youtube-clone&theme=solarized-light" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=youtube-clone&theme=radical&hide_border=true" alt="VidTube - YouTube Clone" title="VidTube - YouTube Clone" />
+      </picture>
+    </a>
     <a href="https://github.com/esteban-vm/space-invaders-game">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=space-invaders-game&theme=radical&hide_border=true" />
