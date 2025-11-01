@@ -96,6 +96,13 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=nextflix&theme=radical&hide_border=true" alt="Nextflix - Netflix Clone" title="Nextflix - Netflix Clone" />
       </picture>
     </a>
+    <a href="https://github.com/esteban-vm/react-ai-chatbot">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=react-ai-chatbot&theme=radical&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=react-ai-chatbot&theme=solarized-light" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=react-ai-chatbot&theme=radical&hide_border=true" alt="React AI Chatbot" title="React AI Chatbot" />
+      </picture>
+    </a>
     <a href="https://github.com/esteban-vm/instagram-clone-v2">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=esteban-vm&repo=instagram-clone-v2&theme=radical&hide_border=true" />
