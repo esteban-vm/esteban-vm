@@ -47,9 +47,9 @@
 <!-- Trophies -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits%2CRepositories%2CStars%2CPullRequest%2CFollowers%2CExperience" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=oldie&row=2&column=3&margin-w=15&margin-h=15&title=Commits%2CRepositories%2CStars%2CPullRequest%2CFollowers%2CExperience" />
-    <img src="https://github-profile-trophy.vercel.app/?username=esteban-vm&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits%2CRepositories%2CStars%2CPullRequest%2CFollowers%2CExperience" alt="My Trophies" title="My Trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ten-livid.vercel.app/?username=esteban-vm&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits%2CRepositories%2CStars%2CPullRequest%2CFollowers%2CExperience" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ten-livid.vercel.app/?username=esteban-vm&theme=oldie&row=2&column=3&margin-w=15&margin-h=15&title=Commits%2CRepositories%2CStars%2CPullRequest%2CFollowers%2CExperience" />
+    <img src="https://github-profile-trophy-ten-livid.vercel.app/?username=esteban-vm&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&title=Commits%2CRepositories%2CStars%2CPullRequest%2CFollowers%2CExperience" alt="My Trophies" title="My Trophies" />
   </picture>
 </p>
 
