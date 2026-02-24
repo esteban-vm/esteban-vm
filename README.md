@@ -377,6 +377,15 @@
         </picture>
       </a>
     </li>
+    <li>
+      <a href="https://wa.link/txgz09">
+        <picture>
+          <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/WhatsApp-25D366.svg?style=flat&logo=WhatsApp&logoColor=white" /> -->
+          <!-- <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/WhatsApp-25D366.svg?style=plastic&logo=WhatsApp&logoColor=white" /> -->
+          <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" title="WhatsApp" />
+        </picture>
+      </a>
+    </li>
     <!-- <a href="https://codepen.io/esteban-vera/"> -->
       <!-- <picture> -->
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CodePen-000000.svg?style=flat&logo=CodePen&logoColor=white" /> -->

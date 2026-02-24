@@ -317,6 +317,11 @@
         <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" title="Telegram" />
       </a>
     </li>
+    <li>
+      <a href="https://wa.link/txgz09">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" title="WhatsApp" />
+      </a>
+    </li>
   </ol>
 </details>
 
