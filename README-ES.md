@@ -90,6 +90,13 @@
         <img src="https://github-readme-stats-dusky-pi-19.vercel.app/api/pin/?username=esteban-vm&repo=nextflix&theme=radical&hide_border=true" alt="Nextflix - Netflix Clone" title="Nextflix - Netflix Clone" />
       </picture>
     </a>
+    <a href="https://github.com/esteban-vm/my-teslo-shop">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-dusky-pi-19.vercel.app/api/pin/?username=esteban-vm&repo=my-teslo-shop&theme=radical&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-dusky-pi-19.vercel.app/api/pin/?username=esteban-vm&repo=my-teslo-shop&theme=solarized-light" />
+        <img src="https://github-readme-stats-dusky-pi-19.vercel.app/api/pin/?username=esteban-vm&repo=my-teslo-shop&theme=radical&hide_border=true" alt="Teslo Shop" title="Teslo Shop" />
+      </picture>
+    </a>
     <a href="https://github.com/esteban-vm/react-ai-chatbot">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-dusky-pi-19.vercel.app/api/pin/?username=esteban-vm&repo=react-ai-chatbot&theme=radical&hide_border=true" />
