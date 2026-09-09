@@ -271,7 +271,7 @@
   </summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/esteban-vm/my-portfolio">
+    <a href="https://github.com/esteban-vm/my-portfolio-website">
       <picture>
         <img src="https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="My Portfolio" title="My Portfolio" />
       </picture>
